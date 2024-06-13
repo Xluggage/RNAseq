@@ -1,0 +1,1049 @@
+GO:0000304	response to singlet oxygen
+GO:0001763	morphogenesis of a branching structure
+GO:0001768	establishment of T cell polarity
+GO:0001771	immunological synapse formation
+GO:0001772	immunological synapse
+GO:0001773	myeloid dendritic cell activation
+GO:0001776	leukocyte homeostasis
+GO:0001777	T cell homeostatic proliferation
+GO:0001780	neutrophil homeostasis
+GO:0001781	neutrophil apoptotic process
+GO:0001782	B cell homeostasis
+GO:0001783	B cell apoptotic process
+GO:0001788	antibody-dependent cellular cytotoxicity
+GO:0001798	positive regulation of type IIa hypersensitivity
+GO:0001805	positive regulation of type III hypersensitivity
+GO:0001806	type IV hypersensitivity
+GO:0001807	regulation of type IV hypersensitivity
+GO:0001808	negative regulation of type IV hypersensitivity
+GO:0001809	positive regulation of type IV hypersensitivity
+GO:0001811	negative regulation of type I hypersensitivity
+GO:0001812	positive regulation of type I hypersensitivity
+GO:0001820	serotonin secretion
+GO:0001846	opsonin binding
+GO:0001865	NK T cell differentiation
+GO:0001866	NK T cell proliferation
+GO:0001867	complement activation, lectin pathway
+GO:0001874	(1->3)-beta-D-glucan immune receptor activity
+GO:0001875	lipopolysaccharide immune receptor activity
+GO:0001909	leukocyte mediated cytotoxicity
+GO:0001912	positive regulation of leukocyte mediated cytotoxicity
+GO:0001913	T cell mediated cytotoxicity
+GO:0001914	regulation of T cell mediated cytotoxicity
+GO:0001915	negative regulation of T cell mediated cytotoxicity
+GO:0001916	positive regulation of T cell mediated cytotoxicity
+GO:0001922	B-1 B cell homeostasis
+GO:0001923	B-1 B cell differentiation
+GO:0001935	endothelial cell proliferation
+GO:0001945	lymph vessel development
+GO:0001946	lymphangiogenesis
+GO:0002096	polkadots
+GO:0002158	osteoclast proliferation
+GO:0002204	somatic recombination of immunoglobulin genes involved in immune response
+GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0002218	activation of innate immune response
+GO:0002224	toll-like receptor signaling pathway
+GO:0002227	innate immune response in mucosa
+GO:0002228	natural killer cell mediated immunity
+GO:0002230	positive regulation of defense response to virus by host
+GO:0002232	leukocyte chemotaxis involved in inflammatory response
+GO:0002244	hematopoietic progenitor cell differentiation
+GO:0002246	wound healing involved in inflammatory response
+GO:0002248	connective tissue replacement involved in inflammatory response wound healing
+GO:0002250	adaptive immune response
+GO:0002251	organ or tissue specific immune response
+GO:0002253	activation of immune response
+GO:0002260	lymphocyte homeostasis
+GO:0002263	cell activation involved in immune response
+GO:0002264	endothelial cell activation involved in immune response
+GO:0002265	astrocyte activation involved in immune response
+GO:0002268	follicular dendritic cell differentiation
+GO:0002269	leukocyte activation involved in inflammatory response
+GO:0002270	plasmacytoid dendritic cell activation
+GO:0002273	plasmacytoid dendritic cell differentiation
+GO:0002274	myeloid leukocyte activation
+GO:0002276	basophil activation involved in immune response
+GO:0002277	myeloid dendritic cell activation involved in immune response
+GO:0002280	monocyte activation involved in immune response
+GO:0002281	macrophage activation involved in immune response
+GO:0002282	microglial cell activation involved in immune response
+GO:0002283	neutrophil activation involved in immune response
+GO:0002285	lymphocyte activation involved in immune response
+GO:0002286	T cell activation involved in immune response
+GO:0002287	alpha-beta T cell activation involved in immune response
+GO:0002291	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+GO:0002292	T cell differentiation involved in immune response
+GO:0002296	T-helper 1 cell lineage commitment
+GO:0002300	CD8-positive, alpha-beta intraepithelial T cell differentiation
+GO:0002302	CD8-positive, alpha-beta T cell differentiation involved in immune response
+GO:0002305	CD8-positive, gamma-delta intraepithelial T cell differentiation
+GO:0002309	T cell proliferation involved in immune response
+GO:0002312	B cell activation involved in immune response
+GO:0002313	mature B cell differentiation involved in immune response
+GO:0002314	germinal center B cell differentiation
+GO:0002315	marginal zone B cell differentiation
+GO:0002316	follicular B cell differentiation
+GO:0002317	plasma cell differentiation
+GO:0002319	memory B cell differentiation
+GO:0002320	lymphoid progenitor cell differentiation
+GO:0002322	B cell proliferation involved in immune response
+GO:0002323	natural killer cell activation involved in immune response
+GO:0002326	B cell lineage commitment
+GO:0002327	immature B cell differentiation
+GO:0002328	pro-B cell differentiation
+GO:0002329	pre-B cell differentiation
+GO:0002331	pre-B cell allelic exclusion
+GO:0002333	transitional one stage B cell differentiation
+GO:0002334	transitional two stage B cell differentiation
+GO:0002335	mature B cell differentiation
+GO:0002336	B-1 B cell lineage commitment
+GO:0002337	B-1a B cell differentiation
+GO:0002344	B cell affinity maturation
+GO:0002352	B cell negative selection
+GO:0002358	B cell homeostatic proliferation
+GO:0002360	T cell lineage commitment
+GO:0002361	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0002362	CD4-positive, CD25-positive, alpha-beta regulatory T cell lineage commitment
+GO:0002363	alpha-beta T cell lineage commitment
+GO:0002364	NK T cell lineage commitment
+GO:0002365	gamma-delta T cell lineage commitment
+GO:0002366	leukocyte activation involved in immune response
+GO:0002367	cytokine production involved in immune response
+GO:0002369	T cell cytokine production
+GO:0002373	plasmacytoid dendritic cell cytokine production
+GO:0002376	immune system process
+GO:0002381	immunoglobulin production involved in immunoglobulin-mediated immune response
+GO:0002383	immune response in brain or nervous system
+GO:0002384	hepatic immune response
+GO:0002385	mucosal immune response
+GO:0002395	immune response in nasopharyngeal-associated lymphoid tissue
+GO:0002407	dendritic cell chemotaxis
+GO:0002408	myeloid dendritic cell chemotaxis
+GO:0002410	plasmacytoid dendritic cell chemotaxis
+GO:0002412	antigen transcytosis by M cells in mucosal-associated lymphoid tissue
+GO:0002415	immunoglobulin transcytosis in epithelial cells mediated by polymeric immunoglobulin receptor
+GO:0002418	immune response to tumor cell
+GO:0002429	immune response-activating cell surface receptor signaling pathway
+GO:0002430	complement receptor mediated signaling pathway
+GO:0002431	Fc receptor mediated stimulatory signaling pathway
+GO:0002432	granuloma formation
+GO:0002434	immune complex clearance
+GO:0002437	inflammatory response to antigenic stimulus
+GO:0002438	acute inflammatory response to antigenic stimulus
+GO:0002439	chronic inflammatory response to antigenic stimulus
+GO:0002443	leukocyte mediated immunity
+GO:0002446	neutrophil mediated immunity
+GO:0002447	eosinophil mediated immunity
+GO:0002448	mast cell mediated immunity
+GO:0002455	humoral immune response mediated by circulating immunoglobulin
+GO:0002456	T cell mediated immunity
+GO:0002457	T cell antigen processing and presentation
+GO:0002458	peripheral T cell tolerance induction
+GO:0002460	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+GO:0002467	germinal center formation
+GO:0002468	dendritic cell antigen processing and presentation
+GO:0002507	tolerance induction
+GO:0002508	central tolerance induction
+GO:0002509	central tolerance induction to self antigen
+GO:0002517	T cell tolerance induction
+GO:0002518	lymphocyte chemotaxis across high endothelial venule
+GO:0002520	immune system development
+GO:0002521	leukocyte differentiation
+GO:0002522	leukocyte migration involved in immune response
+GO:0002523	leukocyte migration involved in inflammatory response
+GO:0002524	hypersensitivity
+GO:0002525	acute inflammatory response to non-antigenic stimulus
+GO:0002526	acute inflammatory response
+GO:0002528	regulation of vascular permeability involved in acute inflammatory response
+GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0002534	cytokine production involved in inflammatory response
+GO:0002536	respiratory burst involved in inflammatory response
+GO:0002537	nitric oxide production involved in inflammatory response
+GO:0002539	prostaglandin production involved in inflammatory response
+GO:0002540	leukotriene production involved in inflammatory response
+GO:0002541	activation of plasma proteins involved in acute inflammatory response
+GO:0002544	chronic inflammatory response
+GO:0002548	monocyte chemotaxis
+GO:0002551	mast cell chemotaxis
+GO:0002552	serotonin secretion by mast cell
+GO:0002553	histamine secretion by mast cell
+GO:0002561	basophil degranulation
+GO:0002566	somatic diversification of immune receptors via somatic mutation
+GO:0002572	pro-T cell differentiation
+GO:0002573	myeloid leukocyte differentiation
+GO:0002575	basophil chemotaxis
+GO:0002605	negative regulation of dendritic cell antigen processing and presentation
+GO:0002606	positive regulation of dendritic cell antigen processing and presentation
+GO:0002617	negative regulation of macrophage antigen processing and presentation
+GO:0002625	regulation of T cell antigen processing and presentation
+GO:0002626	negative regulation of T cell antigen processing and presentation
+GO:0002652	regulation of tolerance induction dependent upon immune response
+GO:0002663	positive regulation of B cell tolerance induction
+GO:0002664	regulation of T cell tolerance induction
+GO:0002666	positive regulation of T cell tolerance induction
+GO:0002667	regulation of T cell anergy
+GO:0002668	negative regulation of T cell anergy
+GO:0002669	positive regulation of T cell anergy
+GO:0002673	regulation of acute inflammatory response
+GO:0002674	negative regulation of acute inflammatory response
+GO:0002675	positive regulation of acute inflammatory response
+GO:0002677	negative regulation of chronic inflammatory response
+GO:0002678	positive regulation of chronic inflammatory response
+GO:0002682	regulation of immune system process
+GO:0002683	negative regulation of immune system process
+GO:0002684	positive regulation of immune system process
+GO:0002685	regulation of leukocyte migration
+GO:0002686	negative regulation of leukocyte migration
+GO:0002687	positive regulation of leukocyte migration
+GO:0002688	regulation of leukocyte chemotaxis
+GO:0002689	negative regulation of leukocyte chemotaxis
+GO:0002690	positive regulation of leukocyte chemotaxis
+GO:0002695	negative regulation of leukocyte activation
+GO:0002696	positive regulation of leukocyte activation
+GO:0002699	positive regulation of immune effector process
+GO:0002709	regulation of T cell mediated immunity
+GO:0002710	negative regulation of T cell mediated immunity
+GO:0002711	positive regulation of T cell mediated immunity
+GO:0002717	positive regulation of natural killer cell mediated immunity
+GO:0002718	regulation of cytokine production involved in immune response
+GO:0002719	negative regulation of cytokine production involved in immune response
+GO:0002720	positive regulation of cytokine production involved in immune response
+GO:0002724	regulation of T cell cytokine production
+GO:0002725	negative regulation of T cell cytokine production
+GO:0002726	positive regulation of T cell cytokine production
+GO:0002730	regulation of dendritic cell cytokine production
+GO:0002731	negative regulation of dendritic cell cytokine production
+GO:0002732	positive regulation of dendritic cell cytokine production
+GO:0002735	positive regulation of myeloid dendritic cell cytokine production
+GO:0002737	negative regulation of plasmacytoid dendritic cell cytokine production
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway
+GO:0002756	MyD88-independent toll-like receptor signaling pathway
+GO:0002757	immune response-activating signaling pathway
+GO:0002758	innate immune response-activating signaling pathway
+GO:0002761	regulation of myeloid leukocyte differentiation
+GO:0002762	negative regulation of myeloid leukocyte differentiation
+GO:0002763	positive regulation of myeloid leukocyte differentiation
+GO:0002764	immune response-regulating signaling pathway
+GO:0002765	immune response-inhibiting signal transduction
+GO:0002768	immune response-regulating cell surface receptor signaling pathway
+GO:0002769	natural killer cell inhibitory signaling pathway
+GO:0002774	Fc receptor mediated inhibitory signaling pathway
+GO:0002819	regulation of adaptive immune response
+GO:0002820	negative regulation of adaptive immune response
+GO:0002821	positive regulation of adaptive immune response
+GO:0002826	negative regulation of T-helper 1 type immune response
+GO:0002827	positive regulation of T-helper 1 type immune response
+GO:0002828	regulation of type 2 immune response
+GO:0002829	negative regulation of type 2 immune response
+GO:0002830	positive regulation of type 2 immune response
+GO:0002838	negative regulation of immune response to tumor cell
+GO:0002839	positive regulation of immune response to tumor cell
+GO:0002840	regulation of T cell mediated immune response to tumor cell
+GO:0002841	negative regulation of T cell mediated immune response to tumor cell
+GO:0002842	positive regulation of T cell mediated immune response to tumor cell
+GO:0002851	positive regulation of peripheral T cell tolerance induction
+GO:0002853	negative regulation of T cell mediated cytotoxicity directed against tumor cell target
+GO:0002854	positive regulation of T cell mediated cytotoxicity directed against tumor cell target
+GO:0002857	positive regulation of natural killer cell mediated immune response to tumor cell
+GO:0002862	negative regulation of inflammatory response to antigenic stimulus
+GO:0002863	positive regulation of inflammatory response to antigenic stimulus
+GO:0002864	regulation of acute inflammatory response to antigenic stimulus
+GO:0002865	negative regulation of acute inflammatory response to antigenic stimulus
+GO:0002866	positive regulation of acute inflammatory response to antigenic stimulus
+GO:0002870	T cell anergy
+GO:0002875	negative regulation of chronic inflammatory response to antigenic stimulus
+GO:0002876	positive regulation of chronic inflammatory response to antigenic stimulus
+GO:0002878	negative regulation of acute inflammatory response to non-antigenic stimulus
+GO:0002879	positive regulation of acute inflammatory response to non-antigenic stimulus
+GO:0002881	negative regulation of chronic inflammatory response to non-antigenic stimulus
+GO:0002882	positive regulation of chronic inflammatory response to non-antigenic stimulus
+GO:0002891	positive regulation of immunoglobulin mediated immune response
+GO:0002897	positive regulation of central B cell tolerance induction
+GO:0002901	mature B cell apoptotic process
+GO:0002902	regulation of B cell apoptotic process
+GO:0002903	negative regulation of B cell apoptotic process
+GO:0002904	positive regulation of B cell apoptotic process
+GO:0002906	negative regulation of mature B cell apoptotic process
+GO:0002920	regulation of humoral immune response
+GO:0002922	positive regulation of humoral immune response
+GO:0002923	regulation of humoral immune response mediated by circulating immunoglobulin
+GO:0002924	negative regulation of humoral immune response mediated by circulating immunoglobulin
+GO:0002925	positive regulation of humoral immune response mediated by circulating immunoglobulin
+GO:0003017	lymph circulation
+GO:0003158	endothelium development
+GO:0003309	type B pancreatic cell differentiation
+GO:0003323	type B pancreatic cell development
+GO:0003327	type B pancreatic cell fate commitment
+GO:0003823	antigen binding
+GO:0004601	peroxidase activity
+GO:0004908	interleukin-1 receptor activity
+GO:0004950	chemokine receptor activity
+GO:0005011	macrophage colony-stimulating factor receptor activity
+GO:0005020	stem cell factor receptor activity
+GO:0005021	vascular endothelial growth factor receptor activity
+GO:0005031	tumor necrosis factor receptor activity
+GO:0005044	scavenger receptor activity
+GO:0005129	granulocyte macrophage colony-stimulating factor receptor binding
+GO:0005157	macrophage colony-stimulating factor receptor binding
+GO:0005174	CD40 receptor binding
+GO:0005175	CD27 receptor binding
+GO:0005652	nuclear lamina
+GO:0005895	interleukin-5 receptor complex
+GO:0006663	platelet activating factor biosynthetic process
+GO:0006734	NADH metabolic process
+GO:0006910	phagocytosis, recognition
+GO:0006911	phagocytosis, engulfment
+GO:0006924	activation-induced cell death of T cells
+GO:0006925	inflammatory cell apoptotic process
+GO:0006952	defense response
+GO:0006953	acute-phase response
+GO:0006954	inflammatory response
+GO:0006955	immune response
+GO:0006956	complement activation
+GO:0006957	complement activation, alternative pathway
+GO:0006958	complement activation, classical pathway
+GO:0006959	humoral immune response
+GO:0007159	leukocyte cell-cell adhesion
+GO:0008009	chemokine activity
+GO:0008211	glucocorticoid metabolic process
+GO:0008303	caspase complex
+GO:0008626	granzyme-mediated apoptotic signaling pathway
+GO:0009435	NAD biosynthetic process
+GO:0010224	response to UV-B
+GO:0010742	macrophage derived foam cell differentiation
+GO:0010744	positive regulation of macrophage derived foam cell differentiation
+GO:0010745	negative regulation of macrophage derived foam cell differentiation
+GO:0010758	regulation of macrophage chemotaxis
+GO:0010759	positive regulation of macrophage chemotaxis
+GO:0010760	negative regulation of macrophage chemotaxis
+GO:0010818	T cell chemotaxis
+GO:0010819	regulation of T cell chemotaxis
+GO:0010820	positive regulation of T cell chemotaxis
+GO:0010933	positive regulation of macrophage tolerance induction
+GO:0010934	macrophage cytokine production
+GO:0010935	regulation of macrophage cytokine production
+GO:0010936	negative regulation of macrophage cytokine production
+GO:0014004	microglia differentiation
+GO:0015054	gastrin receptor activity
+GO:0015884	folic acid transport
+GO:0016019	peptidoglycan immune receptor activity
+GO:0016064	immunoglobulin mediated immune response
+GO:0016176	superoxide-generating NADPH oxidase activator activity
+GO:0016521	pituitary adenylate cyclase activating polypeptide activity
+GO:0019674	NAD metabolic process
+GO:0019677	NAD catabolic process
+GO:0019724	B cell mediated immunity
+GO:0019730	antimicrobial humoral response
+GO:0019731	antibacterial humoral response
+GO:0019732	antifungal humoral response
+GO:0019814	immunoglobulin complex
+GO:0019815	B cell receptor complex
+GO:0019907	cyclin-dependent protein kinase activating kinase holoenzyme complex
+GO:0019956	chemokine binding
+GO:0030073	insulin secretion
+GO:0030097	hemopoiesis
+GO:0030098	lymphocyte differentiation
+GO:0030099	myeloid cell differentiation
+GO:0030107	HLA-A specific inhibitory MHC class I receptor activity
+GO:0030108	HLA-A specific activating MHC class I receptor activity
+GO:0030109	HLA-B specific inhibitory MHC class I receptor activity
+GO:0030183	B cell differentiation
+GO:0030217	T cell differentiation
+GO:0030221	basophil differentiation
+GO:0030222	eosinophil differentiation
+GO:0030223	neutrophil differentiation
+GO:0030224	monocyte differentiation
+GO:0030225	macrophage differentiation
+GO:0030315	T-tubule
+GO:0030316	osteoclast differentiation
+GO:0030369	ICAM-3 receptor activity
+GO:0030526	granulocyte macrophage colony-stimulating factor receptor complex
+GO:0030593	neutrophil chemotaxis
+GO:0030595	leukocyte chemotaxis
+GO:0030851	granulocyte differentiation
+GO:0030885	regulation of myeloid dendritic cell activation
+GO:0030886	negative regulation of myeloid dendritic cell activation
+GO:0030887	positive regulation of myeloid dendritic cell activation
+GO:0030888	regulation of B cell proliferation
+GO:0030889	negative regulation of B cell proliferation
+GO:0030890	positive regulation of B cell proliferation
+GO:0031295	T cell costimulation
+GO:0031296	B cell costimulation
+GO:0031663	lipopolysaccharide-mediated signaling pathway
+GO:0031724	CXCR5 chemokine receptor binding
+GO:0031726	CCR1 chemokine receptor binding
+GO:0031727	CCR2 chemokine receptor binding
+GO:0031728	CCR3 chemokine receptor binding
+GO:0031960	response to corticosteroid
+GO:0032217	riboflavin transmembrane transporter activity
+GO:0032218	riboflavin transport
+GO:0032393	MHC class I receptor activity
+GO:0032394	MHC class Ib receptor activity
+GO:0032395	MHC class II receptor activity
+GO:0032396	inhibitory MHC class I receptor activity
+GO:0032397	activating MHC class I receptor activity
+GO:0032597	B cell receptor transport into membrane raft
+GO:0032602	chemokine production
+GO:0032604	granulocyte macrophage colony-stimulating factor production
+GO:0032620	interleukin-17 production
+GO:0032640	tumor necrosis factor production
+GO:0032645	regulation of granulocyte macrophage colony-stimulating factor production
+GO:0032685	negative regulation of granulocyte macrophage colony-stimulating factor production
+GO:0032700	negative regulation of interleukin-17 production
+GO:0032725	positive regulation of granulocyte macrophage colony-stimulating factor production
+GO:0032740	positive regulation of interleukin-17 production
+GO:0032761	positive regulation of lymphotoxin A production
+GO:0032762	mast cell cytokine production
+GO:0032764	negative regulation of mast cell cytokine production
+GO:0032765	positive regulation of mast cell cytokine production
+GO:0032796	uropod organization
+GO:0032826	regulation of natural killer cell differentiation involved in immune response
+GO:0032827	negative regulation of natural killer cell differentiation involved in immune response
+GO:0032829	regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0032834	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response
+GO:0032943	mononuclear cell proliferation
+GO:0033003	regulation of mast cell activation
+GO:0033004	negative regulation of mast cell activation
+GO:0033005	positive regulation of mast cell activation
+GO:0033007	negative regulation of mast cell activation involved in immune response
+GO:0033008	positive regulation of mast cell activation involved in immune response
+GO:0033023	mast cell homeostasis
+GO:0033024	mast cell apoptotic process
+GO:0033025	regulation of mast cell apoptotic process
+GO:0033026	negative regulation of mast cell apoptotic process
+GO:0033027	positive regulation of mast cell apoptotic process
+GO:0033028	myeloid cell apoptotic process
+GO:0033029	regulation of neutrophil apoptotic process
+GO:0033030	negative regulation of neutrophil apoptotic process
+GO:0033031	positive regulation of neutrophil apoptotic process
+GO:0033077	T cell differentiation in thymus
+GO:0033080	immature T cell proliferation in thymus
+GO:0033081	regulation of T cell differentiation in thymus
+GO:0033082	regulation of extrathymic T cell differentiation
+GO:0033084	regulation of immature T cell proliferation in thymus
+GO:0033085	negative regulation of T cell differentiation in thymus
+GO:0033087	negative regulation of immature T cell proliferation
+GO:0033088	negative regulation of immature T cell proliferation in thymus
+GO:0033089	positive regulation of T cell differentiation in thymus
+GO:0033092	positive regulation of immature T cell proliferation in thymus
+GO:0033093	Weibel-Palade body
+GO:0033151	V(D)J recombination
+GO:0033153	T cell receptor V(D)J recombination
+GO:0033292	T-tubule organization
+GO:0033364	mast cell secretory granule organization
+GO:0033371	T cell secretory granule organization
+GO:0033373	maintenance of protease location in mast cell secretory granule
+GO:0033382	maintenance of granzyme B location in T cell secretory granule
+GO:0034238	macrophage fusion
+GO:0034240	negative regulation of macrophage fusion
+GO:0034241	positive regulation of macrophage fusion
+GO:0034341	response to type II interferon
+GO:0034359	mature chylomicron
+GO:0034650	cortisol metabolic process
+GO:0034651	cortisol biosynthetic process
+GO:0034776	response to histamine
+GO:0035270	endocrine system development
+GO:0035325	Toll-like receptor binding
+GO:0035397	helper T cell enhancement of adaptive immune response
+GO:0035455	response to interferon-alpha
+GO:0035457	cellular response to interferon-alpha
+GO:0035491	positive regulation of leukotriene production involved in inflammatory response
+GO:0035577	azurophil granule membrane
+GO:0035578	azurophil granule lumen
+GO:0035579	specific granule membrane
+GO:0035660	MyD88-dependent toll-like receptor 4 signaling pathway
+GO:0035662	Toll-like receptor 4 binding
+GO:0035663	Toll-like receptor 2 binding
+GO:0035665	TIRAP-dependent toll-like receptor 4 signaling pathway
+GO:0035666	TRIF-dependent toll-like receptor signaling pathway
+GO:0035669	TRAM-dependent toll-like receptor 4 signaling pathway
+GO:0035683	memory T cell extravasation
+GO:0035684	helper T cell extravasation
+GO:0035685	helper T cell diapedesis
+GO:0035688	T-helper 1 cell diapedesis
+GO:0035691	macrophage migration inhibitory factor signaling pathway
+GO:0035692	macrophage migration inhibitory factor receptor complex
+GO:0035696	monocyte extravasation
+GO:0035701	hematopoietic stem cell migration
+GO:0035702	monocyte homeostasis
+GO:0035705	T-helper 17 cell chemotaxis
+GO:0035709	memory T cell activation
+GO:0035710	CD4-positive, alpha-beta T cell activation
+GO:0035711	T-helper 1 cell activation
+GO:0035712	T-helper 2 cell activation
+GO:0035718	macrophage migration inhibitory factor binding
+GO:0035739	CD4-positive, alpha-beta T cell proliferation
+GO:0035740	CD8-positive, alpha-beta T cell proliferation
+GO:0035741	activated CD4-positive, alpha-beta T cell proliferation
+GO:0035744	T-helper 1 cell cytokine production
+GO:0035745	T-helper 2 cell cytokine production
+GO:0035754	B cell chemotaxis
+GO:0035769	B cell chemotaxis across high endothelial venule
+GO:0035773	insulin secretion involved in cellular response to glucose stimulus
+GO:0035780	CD80 biosynthetic process
+GO:0035781	CD86 biosynthetic process
+GO:0035783	CD4-positive, alpha-beta T cell costimulation
+GO:0035853	chromosome passenger complex localization to spindle midzone
+GO:0035854	eosinophil fate commitment
+GO:0036006	cellular response to macrophage colony-stimulating factor stimulus
+GO:0036037	CD8-positive, alpha-beta T cell activation
+GO:0036145	dendritic cell homeostasis
+GO:0036179	osteoclast maturation
+GO:0036303	lymph vessel morphogenesis
+GO:0036336	dendritic cell migration
+GO:0036339	lymphocyte adhesion to endothelial cell of high endothelial venule
+GO:0036371	protein localization to T-tubule
+GO:0036398	TCR signalosome
+GO:0036505	prosaposin receptor activity
+GO:0038002	endocrine signaling
+GO:0038097	positive regulation of mast cell activation by Fc-epsilon receptor signaling pathway
+GO:0038145	macrophage colony-stimulating factor signaling pathway
+GO:0038157	granulocyte-macrophage colony-stimulating factor signaling pathway
+GO:0038187	pattern recognition receptor activity
+GO:0042088	T-helper 1 type immune response
+GO:0042092	type 2 immune response
+GO:0042093	T-helper cell differentiation
+GO:0042098	T cell proliferation
+GO:0042100	B cell proliferation
+GO:0042101	T cell receptor complex
+GO:0042102	positive regulation of T cell proliferation
+GO:0042103	positive regulation of T cell homeostatic proliferation
+GO:0042104	positive regulation of activated T cell proliferation
+GO:0042105	alpha-beta T cell receptor complex
+GO:0042110	T cell activation
+GO:0042113	B cell activation
+GO:0042116	macrophage activation
+GO:0042117	monocyte activation
+GO:0042119	neutrophil activation
+GO:0042129	regulation of T cell proliferation
+GO:0042130	negative regulation of T cell proliferation
+GO:0042287	MHC protein binding
+GO:0042288	MHC class I protein binding
+GO:0042289	MHC class II protein binding
+GO:0042492	gamma-delta T cell differentiation
+GO:0042571	immunoglobulin complex, circulating
+GO:0042581	specific granule
+GO:0042582	azurophil granule
+GO:0042608	T cell receptor binding
+GO:0042609	CD4 receptor binding
+GO:0042610	CD8 receptor binding
+GO:0042627	chylomicron
+GO:0042629	mast cell granule
+GO:0043011	myeloid dendritic cell differentiation
+GO:0043029	T cell homeostasis
+GO:0043030	regulation of macrophage activation
+GO:0043031	negative regulation of macrophage activation
+GO:0043032	positive regulation of macrophage activation
+GO:0043120	tumor necrosis factor binding
+GO:0043303	mast cell degranulation
+GO:0043304	regulation of mast cell degranulation
+GO:0043305	negative regulation of mast cell degranulation
+GO:0043306	positive regulation of mast cell degranulation
+GO:0043308	eosinophil degranulation
+GO:0043310	negative regulation of eosinophil degranulation
+GO:0043311	positive regulation of eosinophil degranulation
+GO:0043312	neutrophil degranulation
+GO:0043313	regulation of neutrophil degranulation
+GO:0043314	negative regulation of neutrophil degranulation
+GO:0043315	positive regulation of neutrophil degranulation
+GO:0043316	cytotoxic T cell degranulation
+GO:0043318	negative regulation of cytotoxic T cell degranulation
+GO:0043366	beta selection
+GO:0043367	CD4-positive, alpha-beta T cell differentiation
+GO:0043368	positive T cell selection
+GO:0043369	CD4-positive or CD8-positive, alpha-beta T cell lineage commitment
+GO:0043370	regulation of CD4-positive, alpha-beta T cell differentiation
+GO:0043371	negative regulation of CD4-positive, alpha-beta T cell differentiation
+GO:0043372	positive regulation of CD4-positive, alpha-beta T cell differentiation
+GO:0043373	CD4-positive, alpha-beta T cell lineage commitment
+GO:0043374	CD8-positive, alpha-beta T cell differentiation
+GO:0043375	CD8-positive, alpha-beta T cell lineage commitment
+GO:0043376	regulation of CD8-positive, alpha-beta T cell differentiation
+GO:0043377	negative regulation of CD8-positive, alpha-beta T cell differentiation
+GO:0043378	positive regulation of CD8-positive, alpha-beta T cell differentiation
+GO:0043379	memory T cell differentiation
+GO:0043380	regulation of memory T cell differentiation
+GO:0043381	negative regulation of memory T cell differentiation
+GO:0043382	positive regulation of memory T cell differentiation
+GO:0043383	negative T cell selection
+GO:0044194	cytolytic granule
+GO:0044342	type B pancreatic cell proliferation
+GO:0044546	NLRP3 inflammasome complex assembly
+GO:0044565	dendritic cell proliferation
+GO:0045058	T cell selection
+GO:0045059	positive thymic T cell selection
+GO:0045060	negative thymic T cell selection
+GO:0045061	thymic T cell selection
+GO:0045062	extrathymic T cell selection
+GO:0045063	T-helper 1 cell differentiation
+GO:0045064	T-helper 2 cell differentiation
+GO:0045065	cytotoxic T cell differentiation
+GO:0045066	regulatory T cell differentiation
+GO:0045087	innate immune response
+GO:0045088	regulation of innate immune response
+GO:0045089	positive regulation of innate immune response
+GO:0045123	cellular extravasation
+GO:0045148	tripeptide aminopeptidase activity
+GO:0045190	isotype switching
+GO:0045210	FasL biosynthetic process
+GO:0045321	leukocyte activation
+GO:0045446	endothelial cell differentiation
+GO:0045575	basophil activation
+GO:0045576	mast cell activation
+GO:0045577	regulation of B cell differentiation
+GO:0045578	negative regulation of B cell differentiation
+GO:0045579	positive regulation of B cell differentiation
+GO:0045580	regulation of T cell differentiation
+GO:0045581	negative regulation of T cell differentiation
+GO:0045582	positive regulation of T cell differentiation
+GO:0045584	negative regulation of cytotoxic T cell differentiation
+GO:0045585	positive regulation of cytotoxic T cell differentiation
+GO:0045586	regulation of gamma-delta T cell differentiation
+GO:0045588	positive regulation of gamma-delta T cell differentiation
+GO:0045589	regulation of regulatory T cell differentiation
+GO:0045590	negative regulation of regulatory T cell differentiation
+GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0045619	regulation of lymphocyte differentiation
+GO:0045620	negative regulation of lymphocyte differentiation
+GO:0045621	positive regulation of lymphocyte differentiation
+GO:0045622	regulation of T-helper cell differentiation
+GO:0045623	negative regulation of T-helper cell differentiation
+GO:0045624	positive regulation of T-helper cell differentiation
+GO:0045625	regulation of T-helper 1 cell differentiation
+GO:0045626	negative regulation of T-helper 1 cell differentiation
+GO:0045627	positive regulation of T-helper 1 cell differentiation
+GO:0045629	negative regulation of T-helper 2 cell differentiation
+GO:0045630	positive regulation of T-helper 2 cell differentiation
+GO:0045645	positive regulation of eosinophil differentiation
+GO:0045650	negative regulation of macrophage differentiation
+GO:0045651	positive regulation of macrophage differentiation
+GO:0045655	regulation of monocyte differentiation
+GO:0045656	negative regulation of monocyte differentiation
+GO:0045657	positive regulation of monocyte differentiation
+GO:0045659	negative regulation of neutrophil differentiation
+GO:0045660	positive regulation of neutrophil differentiation
+GO:0045728	respiratory burst after phagocytosis
+GO:0045824	negative regulation of innate immune response
+GO:0046006	regulation of activated T cell proliferation
+GO:0046007	negative regulation of activated T cell proliferation
+GO:0046013	regulation of T cell homeostatic proliferation
+GO:0046014	negative regulation of T cell homeostatic proliferation
+GO:0046469	platelet activating factor metabolic process
+GO:0046629	gamma-delta T cell activation
+GO:0046631	alpha-beta T cell activation
+GO:0046632	alpha-beta T cell differentiation
+GO:0046633	alpha-beta T cell proliferation
+GO:0046635	positive regulation of alpha-beta T cell activation
+GO:0046636	negative regulation of alpha-beta T cell activation
+GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0046638	positive regulation of alpha-beta T cell differentiation
+GO:0046639	negative regulation of alpha-beta T cell differentiation
+GO:0046641	positive regulation of alpha-beta T cell proliferation
+GO:0046642	negative regulation of alpha-beta T cell proliferation
+GO:0046649	lymphocyte activation
+GO:0046651	lymphocyte proliferation
+GO:0046696	lipopolysaccharide receptor complex
+GO:0048245	eosinophil chemotaxis
+GO:0048246	macrophage chemotaxis
+GO:0048247	lymphocyte chemotaxis
+GO:0048289	isotype switching to IgE isotypes
+GO:0048290	isotype switching to IgA isotypes
+GO:0048291	isotype switching to IgG isotypes
+GO:0048534	hematopoietic or lymphoid organ development
+GO:0048535	lymph node development
+GO:0048536	spleen development
+GO:0048537	mucosa-associated lymphoid tissue development
+GO:0048538	thymus development
+GO:0048541	Peyer's patch development
+GO:0050671	positive regulation of lymphocyte proliferation
+GO:0050672	negative regulation of lymphocyte proliferation
+GO:0050689	negative regulation of defense response to virus by host
+GO:0050727	regulation of inflammatory response
+GO:0050728	negative regulation of inflammatory response
+GO:0050729	positive regulation of inflammatory response
+GO:0050776	regulation of immune response
+GO:0050777	negative regulation of immune response
+GO:0050778	positive regulation of immune response
+GO:0050798	activated T cell proliferation
+GO:0050851	antigen receptor-mediated signaling pathway
+GO:0050852	T cell receptor signaling pathway
+GO:0050853	B cell receptor signaling pathway
+GO:0050855	regulation of B cell receptor signaling pathway
+GO:0050856	regulation of T cell receptor signaling pathway
+GO:0050857	positive regulation of antigen receptor-mediated signaling pathway
+GO:0050859	negative regulation of B cell receptor signaling pathway
+GO:0050860	negative regulation of T cell receptor signaling pathway
+GO:0050861	positive regulation of B cell receptor signaling pathway
+GO:0050862	positive regulation of T cell receptor signaling pathway
+GO:0050863	regulation of T cell activation
+GO:0050864	regulation of B cell activation
+GO:0050868	negative regulation of T cell activation
+GO:0050869	negative regulation of B cell activation
+GO:0050870	positive regulation of T cell activation
+GO:0050871	positive regulation of B cell activation
+GO:0050900	leukocyte migration
+GO:0050901	leukocyte tethering or rolling
+GO:0050902	leukocyte adhesive activation
+GO:0050904	diapedesis
+GO:0051132	NK T cell activation
+GO:0051134	negative regulation of NK T cell activation
+GO:0051135	positive regulation of NK T cell activation
+GO:0051136	regulation of NK T cell differentiation
+GO:0051138	positive regulation of NK T cell differentiation
+GO:0051141	negative regulation of NK T cell proliferation
+GO:0051142	positive regulation of NK T cell proliferation
+GO:0051249	regulation of lymphocyte activation
+GO:0051250	negative regulation of lymphocyte activation
+GO:0051251	positive regulation of lymphocyte activation
+GO:0051384	response to glucocorticoid
+GO:0051412	response to corticosterone
+GO:0051525	NFAT protein binding
+GO:0060097	cytoskeletal rearrangement involved in phagocytosis, engulfment
+GO:0060100	positive regulation of phagocytosis, engulfment
+GO:0060101	negative regulation of phagocytosis, engulfment
+GO:0060128	corticotropin hormone secreting cell differentiation
+GO:0060129	thyroid-stimulating hormone-secreting cell differentiation
+GO:0060216	definitive hemopoiesis
+GO:0060264	regulation of respiratory burst involved in inflammatory response
+GO:0060265	positive regulation of respiratory burst involved in inflammatory response
+GO:0060266	negative regulation of respiratory burst involved in inflammatory response
+GO:0060307	regulation of ventricular cardiac muscle cell membrane repolarization
+GO:0060330	regulation of response to type II interferon
+GO:0060332	positive regulation of response to type II interferon
+GO:0060333	type II interferon-mediated signaling pathway
+GO:0060334	regulation of type II interferon-mediated signaling pathway
+GO:0060335	positive regulation of type II interferon-mediated signaling pathway
+GO:0060336	negative regulation of type II interferon-mediated signaling pathway
+GO:0060370	susceptibility to T cell mediated cytotoxicity
+GO:0060374	mast cell differentiation
+GO:0060375	regulation of mast cell differentiation
+GO:0060376	positive regulation of mast cell differentiation
+GO:0060377	negative regulation of mast cell differentiation
+GO:0060426	lung vasculature development
+GO:0060708	spongiotrophoblast differentiation
+GO:0060753	regulation of mast cell chemotaxis
+GO:0060754	positive regulation of mast cell chemotaxis
+GO:0060755	negative regulation of mast cell chemotaxis
+GO:0060836	lymphatic endothelial cell differentiation
+GO:0060838	lymphatic endothelial cell fate commitment
+GO:0060854	branching involved in lymph vessel morphogenesis
+GO:0060907	positive regulation of macrophage cytokine production
+GO:0061078	positive regulation of prostaglandin secretion involved in immune response
+GO:0061081	positive regulation of myeloid leukocyte cytokine production involved in immune response
+GO:0061146	Peyer's patch morphogenesis
+GO:0061154	endothelial tube morphogenesis
+GO:0061469	regulation of type B pancreatic cell proliferation
+GO:0061470	T follicular helper cell differentiation
+GO:0061485	memory T cell proliferation
+GO:0061516	monocyte proliferation
+GO:0061519	macrophage homeostasis
+GO:0061702	canonical inflammasome complex
+GO:0061756	leukocyte adhesion to vascular endothelial cell
+GO:0061757	leukocyte adhesion to arterial endothelial cell
+GO:0061760	antifungal innate immune response
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide
+GO:0062081	activating MHC class Ib receptor activity
+GO:0062082	HLA-E specific inhibitory MHC class Ib receptor activity
+GO:0062167	complement component C1q complex
+GO:0070227	lymphocyte apoptotic process
+GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070229	negative regulation of lymphocyte apoptotic process
+GO:0070230	positive regulation of lymphocyte apoptotic process
+GO:0070231	T cell apoptotic process
+GO:0070232	regulation of T cell apoptotic process
+GO:0070233	negative regulation of T cell apoptotic process
+GO:0070234	positive regulation of T cell apoptotic process
+GO:0070235	regulation of activation-induced cell death of T cells
+GO:0070236	negative regulation of activation-induced cell death of T cells
+GO:0070237	positive regulation of activation-induced cell death of T cells
+GO:0070242	thymocyte apoptotic process
+GO:0070243	regulation of thymocyte apoptotic process
+GO:0070244	negative regulation of thymocyte apoptotic process
+GO:0070245	positive regulation of thymocyte apoptotic process
+GO:0070254	mucus secretion
+GO:0070266	necroptotic process
+GO:0070486	leukocyte aggregation
+GO:0070487	monocyte aggregation
+GO:0070488	neutrophil aggregation
+GO:0070489	T cell aggregation
+GO:0070513	death domain binding
+GO:0070661	leukocyte proliferation
+GO:0070662	mast cell proliferation
+GO:0070663	regulation of leukocyte proliferation
+GO:0070664	negative regulation of leukocyte proliferation
+GO:0070665	positive regulation of leukocyte proliferation
+GO:0070666	regulation of mast cell proliferation
+GO:0070667	negative regulation of mast cell proliferation
+GO:0070668	positive regulation of mast cell proliferation
+GO:0070701	mucus layer
+GO:0070820	tertiary granule
+GO:0070892	lipoteichoic acid immune receptor activity
+GO:0070944	neutrophil-mediated killing of bacterium
+GO:0070945	neutrophil-mediated killing of gram-negative bacterium
+GO:0070946	neutrophil-mediated killing of gram-positive bacterium
+GO:0070947	neutrophil-mediated killing of fungus
+GO:0070948	regulation of neutrophil mediated cytotoxicity
+GO:0070951	regulation of neutrophil mediated killing of gram-negative bacterium
+GO:0070963	positive regulation of neutrophil mediated killing of gram-negative bacterium
+GO:0070965	positive regulation of neutrophil mediated killing of fungus
+GO:0071346	cellular response to type II interferon
+GO:0071385	cellular response to glucocorticoid stimulus
+GO:0071386	cellular response to corticosterone stimulus
+GO:0071387	cellular response to cortisol stimulus
+GO:0071420	cellular response to histamine
+GO:0071425	hematopoietic stem cell proliferation
+GO:0071493	cellular response to UV-B
+GO:0071593	lymphocyte aggregation
+GO:0071604	transforming growth factor beta production
+GO:0071608	macrophage inflammatory protein-1 alpha production
+GO:0071609	chemokine (C-C motif) ligand 5 production
+GO:0071637	regulation of monocyte chemotactic protein-1 production
+GO:0071638	negative regulation of monocyte chemotactic protein-1 production
+GO:0071639	positive regulation of monocyte chemotactic protein-1 production
+GO:0071640	regulation of macrophage inflammatory protein 1 alpha production
+GO:0071641	negative regulation of macrophage inflammatory protein 1 alpha production
+GO:0071642	positive regulation of macrophage inflammatory protein 1 alpha production
+GO:0071644	negative regulation of chemokine (C-C motif) ligand 4 production
+GO:0071650	negative regulation of chemokine (C-C motif) ligand 5 production
+GO:0071651	positive regulation of chemokine (C-C motif) ligand 5 production
+GO:0071654	positive regulation of chemokine (C-C motif) ligand 1 production
+GO:0071735	IgG immunoglobulin complex
+GO:0071748	monomeric IgA immunoglobulin complex
+GO:0071750	dimeric IgA immunoglobulin complex
+GO:0071791	chemokine (C-C motif) ligand 5 binding
+GO:0071847	TNFSF11-mediated signaling pathway
+GO:0071887	leukocyte apoptotic process
+GO:0071888	macrophage apoptotic process
+GO:0072012	glomerulus vasculature development
+GO:0072239	metanephric glomerulus vasculature development
+GO:0072356	chromosome passenger complex localization to kinetochore
+GO:0072538	T-helper 17 type immune response
+GO:0072539	T-helper 17 cell differentiation
+GO:0072540	T-helper 17 cell lineage commitment
+GO:0072557	IPAF inflammasome complex
+GO:0072558	NLRP1 inflammasome complex
+GO:0072559	NLRP3 inflammasome complex
+GO:0072560	type B pancreatic cell maturation
+GO:0072672	neutrophil extravasation
+GO:0072674	multinuclear osteoclast differentiation
+GO:0072676	lymphocyte migration
+GO:0072677	eosinophil migration
+GO:0072678	T cell migration
+GO:0072679	thymocyte migration
+GO:0072683	T cell extravasation
+GO:0072749	cellular response to cytochalasin B
+GO:0072750	cellular response to leptomycin B
+GO:0090022	regulation of neutrophil chemotaxis
+GO:0090023	positive regulation of neutrophil chemotaxis
+GO:0090024	negative regulation of neutrophil chemotaxis
+GO:0090025	regulation of monocyte chemotaxis
+GO:0090026	positive regulation of monocyte chemotaxis
+GO:0090027	negative regulation of monocyte chemotaxis
+GO:0090265	positive regulation of immune complex clearance by monocytes and macrophages
+GO:0090594	inflammatory response to wounding
+GO:0090717	adaptive immune memory response involving T cells and B cells
+GO:0090721	primary adaptive immune response involving T cells and B cells
+GO:0097011	cellular response to granulocyte macrophage colony-stimulating factor stimulus
+GO:0097012	response to granulocyte macrophage colony-stimulating factor
+GO:0097021	lymphocyte migration into lymphoid organs
+GO:0097022	lymphocyte migration into lymph node
+GO:0097026	dendritic cell dendrite assembly
+GO:0097028	dendritic cell differentiation
+GO:0097029	mature conventional dendritic cell differentiation
+GO:0097048	dendritic cell apoptotic process
+GO:0097050	type B pancreatic cell apoptotic process
+GO:0097057	TRAF2-GSTP1 complex
+GO:0097101	blood vessel endothelial cell fate specification
+GO:0097169	AIM2 inflammasome complex
+GO:0097241	hematopoietic stem cell migration to bone marrow
+GO:0097279	histamine secretion mediated by IgE immunoglobulin
+GO:0097281	immune complex formation
+GO:0097323	B cell adhesion
+GO:0097350	neutrophil clearance
+GO:0097452	GAIT complex
+GO:0097529	myeloid leukocyte migration
+GO:0097531	mast cell migration
+GO:0097534	lymphoid lineage cell migration
+GO:0097535	lymphoid lineage cell migration into thymus
+GO:0097677	STAT family protein binding
+GO:0097720	calcineurin-mediated signaling
+GO:0098915	membrane repolarization during ventricular cardiac muscle cell action potential
+GO:0106014	regulation of inflammatory response to wounding
+GO:0106015	negative regulation of inflammatory response to wounding
+GO:0106016	positive regulation of inflammatory response to wounding
+GO:0106299	resolution phase response
+GO:0120041	positive regulation of macrophage proliferation
+GO:0120042	negative regulation of macrophage proliferation
+GO:0120117	T cell meandering migration
+GO:0140131	positive regulation of lymphocyte chemotaxis
+GO:0140367	antibacterial innate immune response
+GO:0140374	antiviral innate immune response
+GO:0140375	immune receptor activity
+GO:0140507	granzyme-mediated programmed cell death signaling pathway
+GO:0140646	negative regulation of pre-B cell receptor expression
+GO:0140738	NLRP6 inflammasome complex
+GO:0140739	NLRP6 inflammasome complex assembly
+GO:0150076	neuroinflammatory response
+GO:0150102	negative regulation of monocyte activation
+GO:0160006	Fc receptor-mediated immune complex endocytosis
+GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:1900016	negative regulation of cytokine production involved in inflammatory response
+GO:1900017	positive regulation of cytokine production involved in inflammatory response
+GO:1900099	negative regulation of plasma cell differentiation
+GO:1900100	positive regulation of plasma cell differentiation
+GO:1900225	regulation of NLRP3 inflammasome complex assembly
+GO:1900226	negative regulation of NLRP3 inflammasome complex assembly
+GO:1900227	positive regulation of NLRP3 inflammasome complex assembly
+GO:1900280	negative regulation of CD4-positive, alpha-beta T cell costimulation
+GO:1900281	positive regulation of CD4-positive, alpha-beta T cell costimulation
+GO:1900625	positive regulation of monocyte aggregation
+GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:1901258	positive regulation of macrophage colony-stimulating factor production
+GO:1901491	negative regulation of lymphangiogenesis
+GO:1901492	positive regulation of lymphangiogenesis
+GO:1901623	regulation of lymphocyte chemotaxis
+GO:1901624	negative regulation of lymphocyte chemotaxis
+GO:1902227	negative regulation of macrophage colony-stimulating factor signaling pathway
+GO:1902228	positive regulation of macrophage colony-stimulating factor signaling pathway
+GO:1902232	regulation of positive thymic T cell selection
+GO:1902233	negative regulation of positive thymic T cell selection
+GO:1902482	regulatory T cell apoptotic process
+GO:1902483	cytotoxic T cell pyroptotic process
+GO:1902564	negative regulation of neutrophil activation
+GO:1902565	positive regulation of neutrophil activation
+GO:1902567	negative regulation of eosinophil activation
+GO:1902622	regulation of neutrophil migration
+GO:1902623	negative regulation of neutrophil migration
+GO:1902624	positive regulation of neutrophil migration
+GO:1903037	regulation of leukocyte cell-cell adhesion
+GO:1903038	negative regulation of leukocyte cell-cell adhesion
+GO:1903039	positive regulation of leukocyte cell-cell adhesion
+GO:1903236	regulation of leukocyte tethering or rolling
+GO:1903237	negative regulation of leukocyte tethering or rolling
+GO:1903238	positive regulation of leukocyte tethering or rolling
+GO:1903595	positive regulation of histamine secretion by mast cell
+GO:1903903	regulation of establishment of T cell polarity
+GO:1903904	negative regulation of establishment of T cell polarity
+GO:1903905	positive regulation of establishment of T cell polarity
+GO:1903974	positive regulation of cellular response to macrophage colony-stimulating factor stimulus
+GO:1904597	negative regulation of connective tissue replacement involved in inflammatory response wound healing
+GO:1904691	negative regulation of type B pancreatic cell proliferation
+GO:1904692	positive regulation of type B pancreatic cell proliferation
+GO:1904784	NLRP1 inflammasome complex assembly
+GO:1904864	negative regulation of beta-catenin-TCF complex assembly
+GO:1904977	lymphatic endothelial cell migration
+GO:1904994	regulation of leukocyte adhesion to vascular endothelial cell
+GO:1904996	positive regulation of leukocyte adhesion to vascular endothelial cell
+GO:1904997	regulation of leukocyte adhesion to arterial endothelial cell
+GO:1904998	negative regulation of leukocyte adhesion to arterial endothelial cell
+GO:1904999	positive regulation of leukocyte adhesion to arterial endothelial cell
+GO:1905025	negative regulation of membrane repolarization during ventricular cardiac muscle cell action potential
+GO:1905035	negative regulation of antifungal innate immune response
+GO:1905036	positive regulation of antifungal innate immune response
+GO:1905403	negative regulation of activated CD8-positive, alpha-beta T cell apoptotic process
+GO:1905404	positive regulation of activated CD8-positive, alpha-beta T cell apoptotic process
+GO:1905456	regulation of lymphoid progenitor cell differentiation
+GO:1905457	negative regulation of lymphoid progenitor cell differentiation
+GO:1905458	positive regulation of lymphoid progenitor cell differentiation
+GO:1905517	macrophage migration
+GO:1905521	regulation of macrophage migration
+GO:1905522	negative regulation of macrophage migration
+GO:1905523	positive regulation of macrophage migration
+GO:1905675	negative regulation of adaptive immune memory response
+GO:1905676	positive regulation of adaptive immune memory response
+GO:1990117	B cell receptor apoptotic signaling pathway
+GO:1990231	STING complex
+GO:1990266	neutrophil migration
+GO:1990595	mast cell secretagogue receptor activity
+GO:1990647	C/EBP complex
+GO:1990682	CSF1-CSF1R complex
+GO:1990724	galectin complex
+GO:1990777	lipoprotein particle
+GO:1990832	slow axonal transport
+GO:1990907	beta-catenin-TCF complex
+GO:1990959	eosinophil homeostasis
+GO:1990960	basophil homeostasis
+GO:2000074	regulation of type B pancreatic cell development
+GO:2000077	negative regulation of type B pancreatic cell development
+GO:2000078	positive regulation of type B pancreatic cell development
+GO:2000080	negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+GO:2000081	positive regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+GO:2000107	negative regulation of leukocyte apoptotic process
+GO:2000108	positive regulation of leukocyte apoptotic process
+GO:2000109	regulation of macrophage apoptotic process
+GO:2000110	negative regulation of macrophage apoptotic process
+GO:2000111	positive regulation of macrophage apoptotic process
+GO:2000176	positive regulation of pro-T cell differentiation
+GO:2000316	regulation of T-helper 17 type immune response
+GO:2000317	negative regulation of T-helper 17 type immune response
+GO:2000318	positive regulation of T-helper 17 type immune response
+GO:2000319	regulation of T-helper 17 cell differentiation
+GO:2000320	negative regulation of T-helper 17 cell differentiation
+GO:2000321	positive regulation of T-helper 17 cell differentiation
+GO:2000329	negative regulation of T-helper 17 cell lineage commitment
+GO:2000330	positive regulation of T-helper 17 cell lineage commitment
+GO:2000389	regulation of neutrophil extravasation
+GO:2000391	positive regulation of neutrophil extravasation
+GO:2000399	negative regulation of thymocyte aggregation
+GO:2000401	regulation of lymphocyte migration
+GO:2000402	negative regulation of lymphocyte migration
+GO:2000403	positive regulation of lymphocyte migration
+GO:2000404	regulation of T cell migration
+GO:2000405	negative regulation of T cell migration
+GO:2000406	positive regulation of T cell migration
+GO:2000408	negative regulation of T cell extravasation
+GO:2000409	positive regulation of T cell extravasation
+GO:2000410	regulation of thymocyte migration
+GO:2000412	positive regulation of thymocyte migration
+GO:2000415	positive regulation of fibronectin-dependent thymocyte migration
+GO:2000417	negative regulation of eosinophil migration
+GO:2000418	positive regulation of eosinophil migration
+GO:2000420	negative regulation of eosinophil extravasation
+GO:2000424	positive regulation of eosinophil chemotaxis
+GO:2000429	negative regulation of neutrophil aggregation
+GO:2000438	negative regulation of monocyte extravasation
+GO:2000439	positive regulation of monocyte extravasation
+GO:2000446	regulation of macrophage migration inhibitory factor signaling pathway
+GO:2000448	positive regulation of macrophage migration inhibitory factor signaling pathway
+GO:2000451	positive regulation of CD8-positive, alpha-beta T cell extravasation
+GO:2000452	regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation
+GO:2000454	positive regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation
+GO:2000508	regulation of dendritic cell chemotaxis
+GO:2000509	negative regulation of dendritic cell chemotaxis
+GO:2000510	positive regulation of dendritic cell chemotaxis
+GO:2000514	regulation of CD4-positive, alpha-beta T cell activation
+GO:2000515	negative regulation of CD4-positive, alpha-beta T cell activation
+GO:2000516	positive regulation of CD4-positive, alpha-beta T cell activation
+GO:2000524	negative regulation of T cell costimulation
+GO:2000525	positive regulation of T cell costimulation
+GO:2000529	positive regulation of myeloid dendritic cell chemotaxis
+GO:2000538	positive regulation of B cell chemotaxis
+GO:2000547	regulation of dendritic cell dendrite assembly
+GO:2000548	negative regulation of dendritic cell dendrite assembly
+GO:2000549	positive regulation of dendritic cell dendrite assembly
+GO:2000552	negative regulation of T-helper 2 cell cytokine production
+GO:2000553	positive regulation of T-helper 2 cell cytokine production
+GO:2000556	positive regulation of T-helper 1 cell cytokine production
+GO:2000561	regulation of CD4-positive, alpha-beta T cell proliferation
+GO:2000562	negative regulation of CD4-positive, alpha-beta T cell proliferation
+GO:2000563	positive regulation of CD4-positive, alpha-beta T cell proliferation
+GO:2000564	regulation of CD8-positive, alpha-beta T cell proliferation
+GO:2000565	negative regulation of CD8-positive, alpha-beta T cell proliferation
+GO:2000566	positive regulation of CD8-positive, alpha-beta T cell proliferation
+GO:2000568	positive regulation of memory T cell activation
+GO:2000570	positive regulation of T-helper 2 cell activation
+GO:2000669	negative regulation of dendritic cell apoptotic process
+GO:2000670	positive regulation of dendritic cell apoptotic process
+GO:2000675	negative regulation of type B pancreatic cell apoptotic process
+GO:2000676	positive regulation of type B pancreatic cell apoptotic process
+GO:2000973	regulation of pro-B cell differentiation
+GO:2000974	negative regulation of pro-B cell differentiation
+GO:2000975	positive regulation of pro-B cell differentiation
+GO:2001185	regulation of CD8-positive, alpha-beta T cell activation
+GO:2001186	negative regulation of CD8-positive, alpha-beta T cell activation
+GO:2001189	negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+GO:2001190	positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+GO:2001198	regulation of dendritic cell differentiation
+GO:2001199	negative regulation of dendritic cell differentiation
+GO:2001200	positive regulation of dendritic cell differentiation

@@ -1,0 +1,78 @@
+GO:0001569	branching involved in blood vessel morphogenesis
+GO:0001570	vasculogenesis
+GO:0001944	vasculature development
+GO:0002528	regulation of vascular permeability involved in acute inflammatory response
+GO:0003056	regulation of vascular associated smooth muscle contraction
+GO:0005021	vascular endothelial growth factor receptor activity
+GO:0005172	vascular endothelial growth factor receptor binding
+GO:0010232	vascular transport
+GO:0010573	vascular endothelial growth factor production
+GO:0010574	regulation of vascular endothelial growth factor production
+GO:0010575	positive regulation of vascular endothelial growth factor production
+GO:0014829	vascular associated smooth muscle contraction
+GO:0030947	regulation of vascular endothelial growth factor receptor signaling pathway
+GO:0030948	negative regulation of vascular endothelial growth factor receptor signaling pathway
+GO:0030949	positive regulation of vascular endothelial growth factor receptor signaling pathway
+GO:0033093	Weibel-Palade body
+GO:0035470	positive regulation of vascular wound healing
+GO:0035886	vascular associated smooth muscle cell differentiation
+GO:0035924	cellular response to vascular endothelial growth factor stimulus
+GO:0036323	vascular endothelial growth factor receptor-1 signaling pathway
+GO:0036324	vascular endothelial growth factor receptor-2 signaling pathway
+GO:0036325	vascular endothelial growth factor receptor-3 signaling pathway
+GO:0038033	positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway
+GO:0038084	vascular endothelial growth factor signaling pathway
+GO:0038085	vascular endothelial growth factor binding
+GO:0038089	positive regulation of cell migration by vascular endothelial growth factor signaling pathway
+GO:0038091	positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway
+GO:0038190	VEGF-activated neuropilin signaling pathway
+GO:0043114	regulation of vascular permeability
+GO:0043116	negative regulation of vascular permeability
+GO:0043117	positive regulation of vascular permeability
+GO:0043183	vascular endothelial growth factor receptor 1 binding
+GO:0043184	vascular endothelial growth factor receptor 2 binding
+GO:0043185	vascular endothelial growth factor receptor 3 binding
+GO:0048010	vascular endothelial growth factor receptor signaling pathway
+GO:0060087	relaxation of vascular associated smooth muscle
+GO:0061042	vascular wound healing
+GO:0061044	negative regulation of vascular wound healing
+GO:0071065	alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex
+GO:0090668	endothelial cell chemotaxis to vascular endothelial growth factor
+GO:0097084	vascular associated smooth muscle cell development
+GO:0097101	blood vessel endothelial cell fate specification
+GO:0097699	vascular endothelial cell response to fluid shear stress
+GO:0101023	vascular endothelial cell proliferation
+GO:0120078	cell adhesion involved in sprouting angiogenesis
+GO:1900746	regulation of vascular endothelial growth factor signaling pathway
+GO:1900747	negative regulation of vascular endothelial growth factor signaling pathway
+GO:1900748	positive regulation of vascular endothelial growth factor signaling pathway
+GO:1901342	regulation of vasculature development
+GO:1902548	negative regulation of cellular response to vascular endothelial growth factor stimulus
+GO:1904046	negative regulation of vascular endothelial growth factor production
+GO:1904199	positive regulation of regulation of vascular associated smooth muscle cell membrane depolarization
+GO:1904694	negative regulation of vascular associated smooth muscle contraction
+GO:1904695	positive regulation of vascular associated smooth muscle contraction
+GO:1904705	regulation of vascular associated smooth muscle cell proliferation
+GO:1904706	negative regulation of vascular associated smooth muscle cell proliferation
+GO:1904707	positive regulation of vascular associated smooth muscle cell proliferation
+GO:1904738	vascular associated smooth muscle cell migration
+GO:1904753	negative regulation of vascular associated smooth muscle cell migration
+GO:1904754	positive regulation of vascular associated smooth muscle cell migration
+GO:1905064	negative regulation of vascular associated smooth muscle cell differentiation
+GO:1905065	positive regulation of vascular associated smooth muscle cell differentiation
+GO:1905174	regulation of vascular associated smooth muscle cell dedifferentiation
+GO:1905176	positive regulation of vascular associated smooth muscle cell dedifferentiation
+GO:1905288	vascular associated smooth muscle cell apoptotic process
+GO:1905459	regulation of vascular associated smooth muscle cell apoptotic process
+GO:1905460	negative regulation of vascular associated smooth muscle cell apoptotic process
+GO:1905461	positive regulation of vascular associated smooth muscle cell apoptotic process
+GO:1905562	regulation of vascular endothelial cell proliferation
+GO:1905563	negative regulation of vascular endothelial cell proliferation
+GO:1905564	positive regulation of vascular endothelial cell proliferation
+GO:1905931	negative regulation of vascular associated smooth muscle cell differentiation involved in phenotypic switching
+GO:1905932	positive regulation of vascular associated smooth muscle cell differentiation involved in phenotypic switching
+GO:1990150	VEGF-A complex
+GO:1990874	vascular associated smooth muscle cell proliferation
+GO:2001212	regulation of vasculogenesis
+GO:2001213	negative regulation of vasculogenesis
+GO:2001214	positive regulation of vasculogenesis

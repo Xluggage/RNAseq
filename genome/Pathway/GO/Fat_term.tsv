@@ -1,0 +1,41 @@
+GO:0002024	diet induced thermogenesis
+GO:0016165	linoleate 13S-lipoxygenase activity
+GO:0033210	leptin-mediated signaling pathway
+GO:0038021	leptin receptor activity
+GO:0044320	cellular response to leptin stimulus
+GO:0044321	response to leptin
+GO:0045444	fat cell differentiation
+GO:0045598	regulation of fat cell differentiation
+GO:0045599	negative regulation of fat cell differentiation
+GO:0045600	positive regulation of fat cell differentiation
+GO:0050872	white fat cell differentiation
+GO:0050873	brown fat cell differentiation
+GO:0055100	adiponectin binding
+GO:0060612	adipose tissue development
+GO:0060613	fat pad development
+GO:0070341	fat cell proliferation
+GO:0070342	brown fat cell proliferation
+GO:0070343	white fat cell proliferation
+GO:0070345	negative regulation of fat cell proliferation
+GO:0070346	positive regulation of fat cell proliferation
+GO:0070348	negative regulation of brown fat cell proliferation
+GO:0070349	positive regulation of brown fat cell proliferation
+GO:0070350	regulation of white fat cell proliferation
+GO:0070351	negative regulation of white fat cell proliferation
+GO:0070352	positive regulation of white fat cell proliferation
+GO:0090335	regulation of brown fat cell differentiation
+GO:0090336	positive regulation of brown fat cell differentiation
+GO:0097003	adipokinetic hormone receptor activity
+GO:0097004	adipokinetic hormone binding
+GO:0106106	cold-induced thermogenesis
+GO:0120161	regulation of cold-induced thermogenesis
+GO:0120162	positive regulation of cold-induced thermogenesis
+GO:0120163	negative regulation of cold-induced thermogenesis
+GO:0140651	futile creatine cycle
+GO:1903444	negative regulation of brown fat cell differentiation
+GO:1904177	regulation of adipose tissue development
+GO:1904178	negative regulation of adipose tissue development
+GO:1904179	positive regulation of adipose tissue development
+GO:1904649	regulation of fat cell apoptotic process
+GO:1904651	positive regulation of fat cell apoptotic process
+GO:1990845	adaptive thermogenesis

@@ -1,0 +1,159 @@
+GO:0001501	skeletal system development
+GO:0001502	cartilage condensation
+GO:0001503	ossification
+GO:0001649	osteoblast differentiation
+GO:0001957	intramembranous ossification
+GO:0001958	endochondral ossification
+GO:0002051	osteoblast fate commitment
+GO:0002062	chondrocyte differentiation
+GO:0002076	osteoblast development
+GO:0002158	osteoclast proliferation
+GO:0003413	chondrocyte differentiation involved in endochondral bone morphogenesis
+GO:0003416	endochondral bone growth
+GO:0003417	growth plate cartilage development
+GO:0003418	growth plate cartilage chondrocyte differentiation
+GO:0003419	growth plate cartilage chondrocyte proliferation
+GO:0003420	regulation of growth plate cartilage chondrocyte proliferation
+GO:0003421	growth plate cartilage axis specification
+GO:0003429	growth plate cartilage chondrocyte morphogenesis
+GO:0003430	growth plate cartilage chondrocyte growth
+GO:0003431	growth plate cartilage chondrocyte development
+GO:0003433	chondrocyte development involved in endochondral bone morphogenesis
+GO:0005499	vitamin D binding
+GO:0005584	collagen type I trimer
+GO:0005585	collagen type II trimer
+GO:0005594	collagen type IX trimer
+GO:0006874	intracellular calcium ion homeostasis
+GO:0008147	structural constituent of bone
+GO:0010957	negative regulation of vitamin D biosynthetic process
+GO:0010980	positive regulation of vitamin D 24-hydroxylase activity
+GO:0021919	BMP signaling pathway involved in spinal cord dorsal/ventral patterning
+GO:0030278	regulation of ossification
+GO:0030279	negative regulation of ossification
+GO:0030282	bone mineralization
+GO:0030316	osteoclast differentiation
+GO:0030500	regulation of bone mineralization
+GO:0030501	positive regulation of bone mineralization
+GO:0030502	negative regulation of bone mineralization
+GO:0030509	BMP signaling pathway
+GO:0030510	regulation of BMP signaling pathway
+GO:0030513	positive regulation of BMP signaling pathway
+GO:0030514	negative regulation of BMP signaling pathway
+GO:0032468	Golgi calcium ion homeostasis
+GO:0032469	endoplasmic reticulum calcium ion homeostasis
+GO:0032841	calcitonin binding
+GO:0033280	response to vitamin D
+GO:0033687	osteoblast proliferation
+GO:0033688	regulation of osteoblast proliferation
+GO:0033689	negative regulation of osteoblast proliferation
+GO:0033690	positive regulation of osteoblast proliferation
+GO:0034505	tooth mineralization
+GO:0035602	fibroblast growth factor receptor signaling pathway involved in negative regulation of apoptotic process in bone marrow cell
+GO:0035604	fibroblast growth factor receptor signaling pathway involved in positive regulation of cell proliferation in bone marrow
+GO:0035630	bone mineralization involved in bone maturation
+GO:0035988	chondrocyte proliferation
+GO:0036023	embryonic skeletal limb joint morphogenesis
+GO:0036035	osteoclast development
+GO:0036122	BMP binding
+GO:0036179	osteoclast maturation
+GO:0042359	vitamin D metabolic process
+GO:0042369	vitamin D catabolic process
+GO:0042475	odontogenesis of dentin-containing tooth
+GO:0042487	regulation of odontogenesis of dentin-containing tooth
+GO:0042488	positive regulation of odontogenesis of dentin-containing tooth
+GO:0042489	negative regulation of odontogenesis of dentin-containing tooth
+GO:0042809	nuclear vitamin D receptor binding
+GO:0043931	ossification involved in bone maturation
+GO:0043932	ossification involved in bone remodeling
+GO:0044339	canonical Wnt signaling pathway involved in osteoblast differentiation
+GO:0044730	bone sialoprotein binding
+GO:0045124	regulation of bone resorption
+GO:0045453	bone resorption
+GO:0045667	regulation of osteoblast differentiation
+GO:0045668	negative regulation of osteoblast differentiation
+GO:0045669	positive regulation of osteoblast differentiation
+GO:0045670	regulation of osteoclast differentiation
+GO:0045671	negative regulation of osteoclast differentiation
+GO:0045672	positive regulation of osteoclast differentiation
+GO:0045778	positive regulation of ossification
+GO:0045779	negative regulation of bone resorption
+GO:0045780	positive regulation of bone resorption
+GO:0046848	hydroxyapatite binding
+GO:0046849	bone remodeling
+GO:0046850	regulation of bone remodeling
+GO:0046851	negative regulation of bone remodeling
+GO:0048539	bone marrow development
+GO:0048701	embryonic cranial skeleton morphogenesis
+GO:0048703	embryonic viscerocranium morphogenesis
+GO:0048704	embryonic skeletal system morphogenesis
+GO:0048705	skeletal system morphogenesis
+GO:0048706	embryonic skeletal system development
+GO:0051216	cartilage development
+GO:0051480	regulation of cytosolic calcium ion concentration
+GO:0051560	mitochondrial calcium ion homeostasis
+GO:0051563	smooth endoplasmic reticulum calcium ion homeostasis
+GO:0055074	calcium ion homeostasis
+GO:0060022	hard palate development
+GO:0060272	embryonic skeletal joint morphogenesis
+GO:0060346	bone trabecula formation
+GO:0060348	bone development
+GO:0060349	bone morphogenesis
+GO:0060350	endochondral bone morphogenesis
+GO:0060351	cartilage development involved in endochondral bone morphogenesis
+GO:0060363	cranial suture morphogenesis
+GO:0060536	cartilage morphogenesis
+GO:0060557	positive regulation of vitamin D biosynthetic process
+GO:0060803	BMP signaling pathway involved in mesodermal cell fate specification
+GO:0060804	positive regulation of Wnt signaling pathway by BMP signaling pathway
+GO:0061035	regulation of cartilage development
+GO:0061036	positive regulation of cartilage development
+GO:0061037	negative regulation of cartilage development
+GO:0061430	bone trabecula morphogenesis
+GO:0061914	negative regulation of growth plate cartilage chondrocyte proliferation
+GO:0061974	perichondral bone morphogenesis
+GO:0061975	articular cartilage development
+GO:0070561	vitamin D receptor signaling pathway
+GO:0070562	regulation of vitamin D receptor signaling pathway
+GO:0070563	negative regulation of vitamin D receptor signaling pathway
+GO:0070564	positive regulation of vitamin D receptor signaling pathway
+GO:0070576	vitamin D 24-hydroxylase activity
+GO:0070643	vitamin D 25-hydroxylase activity
+GO:0070644	vitamin D response element binding
+GO:0070700	BMP receptor binding
+GO:0070724	BMP receptor complex
+GO:0070977	bone maturation
+GO:0071305	cellular response to vitamin D
+GO:0071773	cellular response to BMP stimulus
+GO:0071838	cell proliferation in bone marrow
+GO:0071839	apoptotic process in bone marrow cell
+GO:0071863	regulation of cell proliferation in bone marrow
+GO:0071864	positive regulation of cell proliferation in bone marrow
+GO:0071866	negative regulation of apoptotic process in bone marrow cell
+GO:0072498	embryonic skeletal joint development
+GO:0072674	multinuclear osteoclast differentiation
+GO:0072675	osteoclast fusion
+GO:0090290	positive regulation of osteoclast proliferation
+GO:0090291	negative regulation of osteoclast proliferation
+GO:0097094	craniofacial suture morphogenesis
+GO:0097241	hematopoietic stem cell migration to bone marrow
+GO:0098821	BMP receptor activity
+GO:0098867	intramembranous bone growth
+GO:0098868	bone growth
+GO:1900155	negative regulation of bone trabecula formation
+GO:1900158	negative regulation of bone mineralization involved in bone maturation
+GO:1900159	positive regulation of bone mineralization involved in bone maturation
+GO:1900220	semaphorin-plexin signaling pathway involved in bone trabecula morphogenesis
+GO:1901706	mesenchymal cell differentiation involved in bone development
+GO:1902731	negative regulation of chondrocyte proliferation
+GO:1902732	positive regulation of chondrocyte proliferation
+GO:1903010	regulation of bone development
+GO:1903011	negative regulation of bone development
+GO:1903012	positive regulation of bone development
+GO:1903769	negative regulation of cell proliferation in bone marrow
+GO:1904888	cranial skeletal system development
+GO:1905240	negative regulation of canonical Wnt signaling pathway involved in osteoblast differentiation
+GO:1990079	cartilage homeostasis
+GO:1990523	bone regeneration
+GO:2001204	regulation of osteoclast development
+GO:2001205	negative regulation of osteoclast development
+GO:2001206	positive regulation of osteoclast development

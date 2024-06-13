@@ -1,0 +1,82 @@
+GO:0000052	citrulline metabolic process
+GO:0000820	regulation of glutamine family amino acid metabolic process
+GO:0000821	regulation of arginine metabolic process
+GO:0005368	taurine transmembrane transporter activity
+GO:0005777	peroxisome
+GO:0005975	carbohydrate metabolic process
+GO:0006006	glucose metabolic process
+GO:0006084	acetyl-CoA metabolic process
+GO:0006091	generation of precursor metabolites and energy
+GO:0006096	glycolytic process
+GO:0006103	2-oxoglutarate metabolic process
+GO:0006109	regulation of carbohydrate metabolic process
+GO:0006112	energy reserve metabolic process
+GO:0006487	protein N-linked glycosylation
+GO:0006505	GPI anchor metabolic process
+GO:0006520	amino acid metabolic process
+GO:0006521	regulation of cellular amino acid metabolic process
+GO:0006525	arginine metabolic process
+GO:0006528	asparagine metabolic process
+GO:0006534	cysteine metabolic process
+GO:0006541	glutamine metabolic process
+GO:0006547	histidine metabolic process
+GO:0006549	isoleucine metabolic process
+GO:0006551	leucine metabolic process
+GO:0006555	methionine metabolic process
+GO:0006558	L-phenylalanine metabolic process
+GO:0006560	proline metabolic process
+GO:0006563	L-serine metabolic process
+GO:0006566	threonine metabolic process
+GO:0006568	tryptophan metabolic process
+GO:0006570	tyrosine metabolic process
+GO:0006573	valine metabolic process
+GO:0006575	cellular modified amino acid metabolic process
+GO:0006577	amino-acid betaine metabolic process
+GO:0006591	ornithine metabolic process
+GO:0006603	phosphocreatine metabolic process
+GO:0006629	lipid metabolic process
+GO:0006638	neutral lipid metabolic process
+GO:0006643	membrane lipid metabolic process
+GO:0006644	phospholipid metabolic process
+GO:0006664	glycolipid metabolic process
+GO:0006743	ubiquinone metabolic process
+GO:0008203	cholesterol metabolic process
+GO:0008653	lipopolysaccharide metabolic process
+GO:0009069	serine family amino acid metabolic process
+GO:0009072	aromatic amino acid metabolic process
+GO:0009081	branched-chain amino acid metabolic process
+GO:0009448	gamma-aminobutyric acid metabolic process
+GO:0009758	carbohydrate utilization
+GO:0015139	alpha-ketoglutarate transmembrane transporter activity
+GO:0016051	carbohydrate biosynthetic process
+GO:0016052	carbohydrate catabolic process
+GO:0019216	regulation of lipid metabolic process
+GO:0019482	beta-alanine metabolic process
+GO:0019530	taurine metabolic process
+GO:0030201	heparan sulfate proteoglycan metabolic process
+GO:0031335	regulation of sulfur amino acid metabolic process
+GO:0042157	lipoprotein metabolic process
+GO:0042412	taurine biosynthetic process
+GO:0044255	cellular lipid metabolic process
+GO:0044262	cellular carbohydrate metabolic process
+GO:0045333	cellular respiration
+GO:0045833	negative regulation of lipid metabolic process
+GO:0045834	positive regulation of lipid metabolic process
+GO:0046416	D-amino acid metabolic process
+GO:0046485	ether lipid metabolic process
+GO:0046486	glycerolipid metabolic process
+GO:0046950	cellular ketone body metabolic process
+GO:0050667	homocysteine metabolic process
+GO:0050746	regulation of lipoprotein metabolic process
+GO:0050747	positive regulation of lipoprotein metabolic process
+GO:0050748	negative regulation of lipoprotein metabolic process
+GO:0070178	D-serine metabolic process
+GO:0070189	kynurenine metabolic process
+GO:0070212	protein poly-ADP-ribosylation
+GO:0070982	L-asparagine metabolic process
+GO:0097052	L-kynurenine metabolic process
+GO:0106074	aminoacyl-tRNA metabolism involved in translational fidelity
+GO:0120009	intermembrane lipid transfer
+GO:0120012	intermembrane sphingolipid transfer
+GO:1901135	carbohydrate derivative metabolic process
+GO:1901605	alpha-amino acid metabolic process

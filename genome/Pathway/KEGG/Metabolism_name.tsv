@@ -1,0 +1,75 @@
+mmu00010	Glycolysis / Gluconeogenesis
+mmu00020	Citrate cycle (TCA cycle)
+mmu00030	Pentose phosphate pathway
+mmu00040	Pentose and glucuronate interconversions
+mmu00051	Fructose and mannose metabolism
+mmu00052	Galactose metabolism
+mmu00053	Ascorbate and aldarate metabolism
+mmu00061	Fatty acid biosynthesis
+mmu00062	Fatty acid elongation
+mmu00071	Fatty acid degradation
+mmu00100	Steroid biosynthesis
+mmu00120	Primary bile acid biosynthesis
+mmu00140	Steroid hormone biosynthesis
+mmu00190	Oxidative phosphorylation
+mmu00220	Arginine biosynthesis
+mmu00250	Alanine, aspartate and glutamate metabolism
+mmu00260	Glycine, serine and threonine metabolism
+mmu00270	Cysteine and methionine metabolism
+mmu00280	Valine, leucine and isoleucine degradation
+mmu00290	Valine, leucine and isoleucine biosynthesis
+mmu00310	Lysine degradation
+mmu00330	Arginine and proline metabolism
+mmu00340	Histidine metabolism
+mmu00350	Tyrosine metabolism
+mmu00360	Phenylalanine metabolism
+mmu00380	Tryptophan metabolism
+mmu00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+mmu00410	beta-Alanine metabolism
+mmu00430	Taurine and hypotaurine metabolism
+mmu00440	Phosphonate and phosphinate metabolism
+mmu00450	Selenocompound metabolism
+mmu00470	D-Amino acid metabolism
+mmu00480	Glutathione metabolism
+mmu00500	Starch and sucrose metabolism
+mmu00510	N-Glycan biosynthesis
+mmu00511	Other glycan degradation
+mmu00512	Mucin type O-glycan biosynthesis
+mmu00513	Various types of N-glycan biosynthesis
+mmu00514	Other types of O-glycan biosynthesis
+mmu00515	Mannose type O-glycan biosynthesis
+mmu00520	Amino sugar and nucleotide sugar metabolism
+mmu00531	Glycosaminoglycan degradation
+mmu00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+mmu00533	Glycosaminoglycan biosynthesis - keratan sulfate
+mmu00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+mmu00561	Glycerolipid metabolism
+mmu00562	Inositol phosphate metabolism
+mmu00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+mmu00564	Glycerophospholipid metabolism
+mmu00565	Ether lipid metabolism
+mmu00590	Arachidonic acid metabolism
+mmu00591	Linoleic acid metabolism
+mmu00592	alpha-Linolenic acid metabolism
+mmu00600	Sphingolipid metabolism
+mmu00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+mmu00603	Glycosphingolipid biosynthesis - globo and isoglobo series
+mmu00604	Glycosphingolipid biosynthesis - ganglio series
+mmu00620	Pyruvate metabolism
+mmu00630	Glyoxylate and dicarboxylate metabolism
+mmu00640	Propanoate metabolism
+mmu00650	Butanoate metabolism
+mmu00910	Nitrogen metabolism
+mmu00920	Sulfur metabolism
+mmu01040	Biosynthesis of unsaturated fatty acids
+mmu01200	Carbon metabolism
+mmu01210	2-Oxocarboxylic acid metabolism
+mmu01212	Fatty acid metabolism
+mmu01230	Biosynthesis of amino acids
+mmu03320	PPAR signaling pathway
+mmu04910	Insulin signaling pathway
+mmu04911	Insulin secretion
+mmu04920	Adipocytokine signaling pathway
+mmu04922	Glucagon signaling pathway
+mmu04923	Regulation of lipolysis in adipocytes
+mmu04927	Cortisol synthesis and secretion

@@ -1,0 +1,74 @@
+GO:0002193	MAML1-RBP-Jkappa- ICN1 complex
+GO:0003402	planar cell polarity pathway involved in axis elongation
+GO:0005112	Notch binding
+GO:0005113	patched binding
+GO:0005119	smoothened binding
+GO:0007219	Notch signaling pathway
+GO:0007220	Notch receptor processing
+GO:0007221	positive regulation of transcription of Notch receptor target
+GO:0007223	Wnt signaling pathway, calcium modulating pathway
+GO:0007224	smoothened signaling pathway
+GO:0007225	patched ligand maturation
+GO:0007227	signal transduction downstream of smoothened
+GO:0007228	positive regulation of hh target transcription factor activity
+GO:0008158	hedgehog receptor activity
+GO:0008589	regulation of smoothened signaling pathway
+GO:0008593	regulation of Notch signaling pathway
+GO:0016055	Wnt signaling pathway
+GO:0017147	Wnt-protein binding
+GO:0030111	regulation of Wnt signaling pathway
+GO:0030177	positive regulation of Wnt signaling pathway
+GO:0030178	negative regulation of Wnt signaling pathway
+GO:0035567	non-canonical Wnt signaling pathway
+GO:0038018	Wnt receptor catabolic process
+GO:0038030	non-canonical Wnt signaling pathway via MAPK cascade
+GO:0038031	non-canonical Wnt signaling pathway via JNK cascade
+GO:0042813	Wnt receptor activity
+GO:0044334	canonical Wnt signaling pathway involved in positive regulation of epithelial to mesenchymal transition
+GO:0044336	canonical Wnt signaling pathway involved in negative regulation of apoptotic process
+GO:0044337	canonical Wnt signaling pathway involved in positive regulation of apoptotic process
+GO:0044338	canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation
+GO:0044339	canonical Wnt signaling pathway involved in osteoblast differentiation
+GO:0044340	canonical Wnt signaling pathway involved in regulation of cell proliferation
+GO:0045746	negative regulation of Notch signaling pathway
+GO:0045747	positive regulation of Notch signaling pathway
+GO:0045879	negative regulation of smoothened signaling pathway
+GO:0045880	positive regulation of smoothened signaling pathway
+GO:0060070	canonical Wnt signaling pathway
+GO:0060071	Wnt signaling pathway, planar cell polarity pathway
+GO:0060804	positive regulation of Wnt signaling pathway by BMP signaling pathway
+GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0060853	Notch signaling pathway involved in arterial endothelial cell fate commitment
+GO:0061355	Wnt protein secretion
+GO:0061357	positive regulation of Wnt protein secretion
+GO:0061358	negative regulation of Wnt protein secretion
+GO:0070369	beta-catenin-TCF7L2 complex
+GO:0070765	gamma-secretase complex
+GO:0071664	catenin-TCF7L2 complex
+GO:0071665	gamma-catenin-TCF7L2 complex
+GO:0071936	coreceptor activity involved in Wnt signaling pathway
+GO:0090090	negative regulation of canonical Wnt signaling pathway
+GO:0090244	Wnt signaling pathway involved in somitogenesis
+GO:0090263	positive regulation of canonical Wnt signaling pathway
+GO:0097108	hedgehog family protein binding
+GO:0198738	cell-cell signaling by wnt
+GO:1901231	positive regulation of non-canonical Wnt signaling pathway via JNK cascade
+GO:1902367	negative regulation of Notch signaling pathway involved in somitogenesis
+GO:1904723	negative regulation of Wnt-Frizzled-LRP5/6 complex assembly
+GO:1904887	Wnt signalosome assembly
+GO:1904928	coreceptor activity involved in canonical Wnt signaling pathway
+GO:1904938	planar cell polarity pathway involved in axon guidance
+GO:1905240	negative regulation of canonical Wnt signaling pathway involved in osteoblast differentiation
+GO:1905474	canonical Wnt signaling pathway involved in stem cell proliferation
+GO:1990787	negative regulation of hh target transcription factor activity
+GO:1990788	GLI-SUFU complex
+GO:1990851	Wnt-Frizzled-LRP5/6 complex
+GO:1990909	Wnt signalosome
+GO:2000050	regulation of non-canonical Wnt signaling pathway
+GO:2000051	negative regulation of non-canonical Wnt signaling pathway
+GO:2000052	positive regulation of non-canonical Wnt signaling pathway
+GO:2000080	negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+GO:2000081	positive regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+GO:2000095	regulation of Wnt signaling pathway, planar cell polarity pathway
+GO:2000096	positive regulation of Wnt signaling pathway, planar cell polarity pathway
+GO:2000286	receptor internalization involved in canonical Wnt signaling pathway

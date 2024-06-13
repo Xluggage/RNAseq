@@ -1,0 +1,308 @@
+GO:0000002	mitochondrial genome maintenance
+GO:0000172	ribonuclease MRP complex
+GO:0000266	mitochondrial fission
+GO:0000274	mitochondrial proton-transporting ATP synthase, stator stalk
+GO:0000275	mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)
+GO:0000276	mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)
+GO:0000422	autophagy of mitochondrion
+GO:0000423	mitophagy
+GO:0000957	mitochondrial RNA catabolic process
+GO:0000958	mitochondrial mRNA catabolic process
+GO:0000959	mitochondrial RNA metabolic process
+GO:0000961	negative regulation of mitochondrial RNA catabolic process
+GO:0000962	positive regulation of mitochondrial RNA catabolic process
+GO:0000963	mitochondrial RNA processing
+GO:0000964	mitochondrial RNA 5'-end processing
+GO:0000965	mitochondrial RNA 3'-end processing
+GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0001018	mitochondrial promoter sequence-specific DNA binding
+GO:0001405	PAM complex, Tim23 associated import motor
+GO:0001836	release of cytochrome c from mitochondria
+GO:0001844	protein insertion into mitochondrial membrane involved in apoptotic signaling pathway
+GO:0002169	3-methylcrotonyl-CoA carboxylase complex, mitochondrial
+GO:0003374	dynamin family protein polymerization involved in mitochondrial fission
+GO:0004129	cytochrome-c oxidase activity
+GO:0004479	methionyl-tRNA formyltransferase activity
+GO:0004739	pyruvate dehydrogenase (acetyl-transferring) activity
+GO:0005739	mitochondrion
+GO:0005740	mitochondrial envelope
+GO:0005741	mitochondrial outer membrane
+GO:0005742	mitochondrial outer membrane translocase complex
+GO:0005743	mitochondrial inner membrane
+GO:0005744	TIM23 mitochondrial import inner membrane translocase complex
+GO:0005745	m-AAA complex
+GO:0005746	mitochondrial respirasome
+GO:0005747	mitochondrial respiratory chain complex I
+GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)
+GO:0005750	mitochondrial respiratory chain complex III
+GO:0005751	mitochondrial respiratory chain complex IV
+GO:0005753	mitochondrial proton-transporting ATP synthase complex
+GO:0005754	mitochondrial proton-transporting ATP synthase, catalytic core
+GO:0005757	mitochondrial permeability transition pore complex
+GO:0005758	mitochondrial intermembrane space
+GO:0005759	mitochondrial matrix
+GO:0005760	gamma DNA polymerase complex
+GO:0005761	mitochondrial ribosome
+GO:0005762	mitochondrial large ribosomal subunit
+GO:0005763	mitochondrial small ribosomal subunit
+GO:0005947	mitochondrial alpha-ketoglutarate dehydrogenase complex
+GO:0005962	mitochondrial isocitrate dehydrogenase complex (NAD+)
+GO:0005967	mitochondrial pyruvate dehydrogenase complex
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone
+GO:0006121	mitochondrial electron transport, succinate to ubiquinone
+GO:0006122	mitochondrial electron transport, ubiquinol to cytochrome c
+GO:0006123	mitochondrial electron transport, cytochrome c to oxygen
+GO:0006127	glycerophosphate shuttle
+GO:0006264	mitochondrial DNA replication
+GO:0006390	mitochondrial transcription
+GO:0006391	transcription initiation at mitochondrial promoter
+GO:0006392	transcription elongation by mitochondrial RNA polymerase
+GO:0006393	termination of mitochondrial transcription
+GO:0006626	protein targeting to mitochondrion
+GO:0006627	protein processing involved in protein targeting to mitochondrion
+GO:0006839	mitochondrial transport
+GO:0006843	mitochondrial citrate transmembrane transport
+GO:0006844	acyl carnitine transport
+GO:0006850	mitochondrial pyruvate transmembrane transport
+GO:0006851	mitochondrial calcium ion transmembrane transport
+GO:0007005	mitochondrion organization
+GO:0007006	mitochondrial membrane organization
+GO:0007007	inner mitochondrial membrane organization
+GO:0007008	outer mitochondrial membrane organization
+GO:0008053	mitochondrial fusion
+GO:0008121	ubiquinol-cytochrome-c reductase activity
+GO:0008137	NADH dehydrogenase (ubiquinone) activity
+GO:0008458	carnitine O-octanoyltransferase activity
+GO:0008535	respiratory chain complex IV assembly
+GO:0008566	mitochondrial protein-transporting ATPase activity
+GO:0008637	apoptotic mitochondrial changes
+GO:0009353	mitochondrial oxoglutarate dehydrogenase complex
+GO:0009437	carnitine metabolic process
+GO:0009841	mitochondrial endopeptidase Clp complex
+GO:0010635	regulation of mitochondrial fusion
+GO:0010636	positive regulation of mitochondrial fusion
+GO:0010637	negative regulation of mitochondrial fusion
+GO:0010821	regulation of mitochondrion organization
+GO:0010822	positive regulation of mitochondrion organization
+GO:0010823	negative regulation of mitochondrion organization
+GO:0010917	negative regulation of mitochondrial membrane potential
+GO:0010918	positive regulation of mitochondrial membrane potential
+GO:0015226	carnitine transmembrane transporter activity
+GO:0015227	acyl carnitine transmembrane transporter activity
+GO:0015288	porin activity
+GO:0015742	alpha-ketoglutarate transport
+GO:0015743	malate transport
+GO:0015810	aspartate transmembrane transport
+GO:0015813	L-glutamate transmembrane transport
+GO:0015879	carnitine transport
+GO:0016031	tRNA import into mitochondrion
+GO:0016507	mitochondrial fatty acid beta-oxidation multienzyme complex
+GO:0017077	oxidative phosphorylation uncoupler activity
+GO:0017087	mitochondrial processing peptidase complex
+GO:0017133	mitochondrial electron transfer flavoprotein complex
+GO:0019896	axonal transport of mitochondrion
+GO:0022829	wide pore channel activity
+GO:0030061	mitochondrial crista
+GO:0030150	protein import into mitochondrial matrix
+GO:0030678	mitochondrial ribonuclease P complex
+GO:0030943	mitochondrion targeting sequence binding
+GO:0031314	extrinsic component of mitochondrial inner membrane
+GO:0031315	extrinsic component of mitochondrial outer membrane
+GO:0031930	mitochondria-nucleus signaling pathway
+GO:0031966	mitochondrial membrane
+GO:0032042	mitochondrial DNA metabolic process
+GO:0032043	mitochondrial DNA catabolic process
+GO:0032473	cytoplasmic side of mitochondrial outer membrane
+GO:0032543	mitochondrial translation
+GO:0032976	release of matrix enzymes from mitochondria
+GO:0032979	protein insertion into mitochondrial inner membrane from matrix
+GO:0032981	mitochondrial respiratory chain complex I assembly
+GO:0033108	mitochondrial respiratory chain complex assembly
+GO:0033615	mitochondrial proton-transporting ATP synthase complex assembly
+GO:0033617	mitochondrial cytochrome c oxidase assembly
+GO:0034245	mitochondrial DNA-directed RNA polymerase complex
+GO:0034246	mitochondrial transcription factor activity
+GO:0034514	mitochondrial unfolded protein response
+GO:0034551	mitochondrial respiratory chain complex III assembly
+GO:0034553	mitochondrial respiratory chain complex II assembly
+GO:0034640	establishment of mitochondrion localization by microtubule attachment
+GO:0034642	mitochondrion migration along actin filament
+GO:0034982	mitochondrial protein processing
+GO:0035632	mitochondrial prohibitin complex
+GO:0035694	mitochondrial protein catabolic process
+GO:0035695	mitophagy by induced vacuole formation
+GO:0035794	positive regulation of mitochondrial membrane permeability
+GO:0035795	negative regulation of mitochondrial membrane permeability
+GO:0035927	RNA import into mitochondrion
+GO:0035928	rRNA import into mitochondrion
+GO:0035945	mitochondrial ncRNA surveillance
+GO:0035946	mitochondrial mRNA surveillance
+GO:0036444	calcium import into the mitochondrion
+GO:0042413	carnitine catabolic process
+GO:0042645	mitochondrial nucleoid
+GO:0042719	mitochondrial intermembrane space protein transporter complex
+GO:0042720	mitochondrial inner membrane peptidase complex
+GO:0042721	TIM22 mitochondrial import inner membrane insertion complex
+GO:0042775	mitochondrial ATP synthesis coupled electron transport
+GO:0042776	proton motive force-driven mitochondrial ATP synthesis
+GO:0043490	malate-aspartate shuttle
+GO:0043504	mitochondrial DNA repair
+GO:0043653	mitochondrial fragmentation involved in apoptotic process
+GO:0044233	mitochondria-associated endoplasmic reticulum membrane
+GO:0044284	mitochondrial crista junction
+GO:0044289	mitochondrial inner-outer membrane contact site
+GO:0044528	regulation of mitochondrial mRNA stability
+GO:0045016	mitochondrial magnesium ion transmembrane transport
+GO:0045025	mitochondrial degradosome
+GO:0045039	protein insertion into mitochondrial inner membrane
+GO:0045040	protein insertion into mitochondrial outer membrane
+GO:0045041	protein import into mitochondrial intermembrane space
+GO:0045329	carnitine biosynthetic process
+GO:0046695	SLIK (SAGA-like) complex
+GO:0046902	regulation of mitochondrial membrane permeability
+GO:0046961	proton-transporting ATPase activity, rotational mechanism
+GO:0047497	mitochondrion transport along microtubule
+GO:0048250	iron import into the mitochondrion
+GO:0048311	mitochondrion distribution
+GO:0048312	intracellular distribution of mitochondria
+GO:0051204	protein insertion into mitochondrial membrane
+GO:0051560	mitochondrial calcium ion homeostasis
+GO:0051561	positive regulation of mitochondrial calcium ion concentration
+GO:0051562	negative regulation of mitochondrial calcium ion concentration
+GO:0051646	mitochondrion localization
+GO:0051654	establishment of mitochondrion localization
+GO:0051659	maintenance of mitochondrion location
+GO:0051881	regulation of mitochondrial membrane potential
+GO:0051882	mitochondrial depolarization
+GO:0051900	regulation of mitochondrial depolarization
+GO:0051901	positive regulation of mitochondrial depolarization
+GO:0051902	negative regulation of mitochondrial depolarization
+GO:0061617	MICOS complex
+GO:0061668	mitochondrial ribosome assembly
+GO:0061734	parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization
+GO:0061881	positive regulation of anterograde axonal transport of mitochondrion
+GO:0062156	mitochondrial ATP-gated potassium channel activity
+GO:0062157	mitochondrial ATP-gated potassium channel complex
+GO:0070124	mitochondrial translational initiation
+GO:0070125	mitochondrial translational elongation
+GO:0070126	mitochondrial translational termination
+GO:0070127	tRNA aminoacylation for mitochondrial protein translation
+GO:0070129	regulation of mitochondrial translation
+GO:0070130	negative regulation of mitochondrial translation
+GO:0070131	positive regulation of mitochondrial translation
+GO:0070143	mitochondrial alanyl-tRNA aminoacylation
+GO:0070145	mitochondrial asparaginyl-tRNA aminoacylation
+GO:0070150	mitochondrial glycyl-tRNA aminoacylation
+GO:0070158	mitochondrial seryl-tRNA aminoacylation
+GO:0070183	mitochondrial tryptophanyl-tRNA aminoacylation
+GO:0070184	mitochondrial tyrosyl-tRNA aminoacylation
+GO:0070584	mitochondrion morphogenesis
+GO:0070585	protein localization to mitochondrion
+GO:0070899	mitochondrial tRNA wobble uridine modification
+GO:0070900	mitochondrial tRNA modification
+GO:0070901	mitochondrial tRNA methylation
+GO:0070902	mitochondrial tRNA pseudouridine synthesis
+GO:0072655	establishment of protein localization to mitochondrion
+GO:0072656	maintenance of protein location in mitochondrion
+GO:0072684	mitochondrial tRNA 3'-trailer cleavage, endonucleolytic
+GO:0090140	regulation of mitochondrial fission
+GO:0090141	positive regulation of mitochondrial fission
+GO:0090144	mitochondrial nucleoid organization
+GO:0090149	mitochondrial membrane fission
+GO:0090152	establishment of protein localization to mitochondrial membrane involved in mitochondrial fission
+GO:0090199	regulation of release of cytochrome c from mitochondria
+GO:0090200	positive regulation of release of cytochrome c from mitochondria
+GO:0090201	negative regulation of release of cytochrome c from mitochondria
+GO:0090258	negative regulation of mitochondrial fission
+GO:0090296	regulation of mitochondrial DNA replication
+GO:0090297	positive regulation of mitochondrial DNA replication
+GO:0090298	negative regulation of mitochondrial DNA replication
+GO:0090615	mitochondrial mRNA processing
+GO:0090646	mitochondrial tRNA processing
+GO:0097177	mitochondrial ribosome binding
+GO:0097222	mitochondrial mRNA polyadenylation
+GO:0097250	mitochondrial respirasome assembly
+GO:0097345	mitochondrial outer membrane permeabilization
+GO:0097552	mitochondrial double-strand break repair via homologous recombination
+GO:0097745	mitochondrial tRNA 5'-end processing
+GO:0098779	positive regulation of mitophagy in response to mitochondrial depolarization
+GO:0098780	response to mitochondrial depolarisation
+GO:0098799	outer mitochondrial membrane protein complex
+GO:0098800	inner mitochondrial membrane protein complex
+GO:0098939	dendritic transport of mitochondrion
+GO:0098957	anterograde axonal transport of mitochondrion
+GO:0098958	retrograde axonal transport of mitochondrion
+GO:0098972	anterograde dendritic transport of mitochondrion
+GO:0099073	mitochondrion-derived vesicle
+GO:0099074	mitochondrion to lysosome transport
+GO:0099093	calcium export from the mitochondrion
+GO:0099128	mitochondrial iron-sulfur cluster assembly complex
+GO:0099617	matrix side of mitochondrial inner membrane
+GO:0110097	regulation of calcium import into the mitochondrion
+GO:0110099	negative regulation of calcium import into the mitochondrion
+GO:0140021	mitochondrial ADP transmembrane transport
+GO:0140053	mitochondrial gene expression
+GO:0140141	mitochondrial potassium ion transmembrane transport
+GO:0140260	mitochondrial proton-transporting ATP synthase complex binding
+GO:0140300	serine import into mitochondrion
+GO:0140466	iron-sulfur cluster export from the mitochondrion
+GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane
+GO:0140917	zinc ion import into mitochondrion
+GO:0160007	glutathione import into mitochondrion
+GO:0160040	mitocytosis
+GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway
+GO:1901028	regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway
+GO:1901029	negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway
+GO:1901030	positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway
+GO:1901858	regulation of mitochondrial DNA metabolic process
+GO:1901859	negative regulation of mitochondrial DNA metabolic process
+GO:1901860	positive regulation of mitochondrial DNA metabolic process
+GO:1902108	regulation of mitochondrial membrane permeability involved in apoptotic process
+GO:1902109	negative regulation of mitochondrial membrane permeability involved in apoptotic process
+GO:1902110	positive regulation of mitochondrial membrane permeability involved in apoptotic process
+GO:1902445	regulation of mitochondrial membrane permeability involved in programmed necrotic cell death
+GO:1902686	mitochondrial outer membrane permeabilization involved in programmed cell death
+GO:1902775	mitochondrial large ribosomal subunit assembly
+GO:1902957	negative regulation of mitochondrial electron transport, NADH to ubiquinone
+GO:1902958	positive regulation of mitochondrial electron transport, NADH to ubiquinone
+GO:1903108	regulation of mitochondrial transcription
+GO:1903109	positive regulation of mitochondrial transcription
+GO:1903146	regulation of autophagy of mitochondrion
+GO:1903147	negative regulation of autophagy of mitochondrion
+GO:1903214	regulation of protein targeting to mitochondrion
+GO:1903215	negative regulation of protein targeting to mitochondrion
+GO:1903217	negative regulation of protein processing involved in protein targeting to mitochondrion
+GO:1903599	positive regulation of autophagy of mitochondrion
+GO:1903638	positive regulation of protein insertion into mitochondrial outer membrane
+GO:1903748	negative regulation of establishment of protein localization to mitochondrion
+GO:1903955	positive regulation of protein targeting to mitochondrion
+GO:1904924	negative regulation of mitophagy in response to mitochondrial depolarization
+GO:1904925	positive regulation of autophagy of mitochondrion in response to mitochondrial depolarization
+GO:1904947	folate import into mitochondrion
+GO:1904959	regulation of cytochrome-c oxidase activity
+GO:1904960	positive regulation of cytochrome-c oxidase activity
+GO:1904983	glycine import into mitochondrion
+GO:1905090	negative regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization
+GO:1905091	positive regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization
+GO:1905448	positive regulation of mitochondrial ATP synthesis coupled electron transport
+GO:1905706	regulation of mitochondrial ATP synthesis coupled proton transport
+GO:1990046	stress-induced mitochondrial fusion
+GO:1990180	mitochondrial tRNA 3'-end processing
+GO:1990246	uniplex complex
+GO:1990400	mitochondrial ribosomal large subunit rRNA binding
+GO:1990456	mitochondrion-endoplasmic reticulum membrane tethering
+GO:1990519	pyrimidine nucleotide import into mitochondrion
+GO:1990540	mitochondrial manganese ion transmembrane transport
+GO:1990542	mitochondrial transmembrane transport
+GO:1990544	mitochondrial ATP transmembrane transport
+GO:1990547	mitochondrial phosphate ion transmembrane transport
+GO:1990548	mitochondrial FAD transmembrane transport
+GO:1990549	mitochondrial NAD transmembrane transport
+GO:1990550	mitochondrial alpha-ketoglutarate transmembrane transport
+GO:1990559	mitochondrial coenzyme A transmembrane transport
+GO:1990572	TERT-RMRP complex
+GO:1990575	mitochondrial L-ornithine transmembrane transport
+GO:2000275	regulation of oxidative phosphorylation uncoupler activity
+GO:2000276	negative regulation of oxidative phosphorylation uncoupler activity
+GO:2000277	positive regulation of oxidative phosphorylation uncoupler activity
+GO:2000827	mitochondrial RNA surveillance
