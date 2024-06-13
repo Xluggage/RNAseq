@@ -167,7 +167,7 @@ simply <- function(x,
   # cutoff:         semantic similarity, default value of 0.7, i.e., merge gene sets with similarity greater than 0.7 in the enrichment result (use measure = "Wang")
   # by/select_fun:  specify how the similar gene set is processed, with "by" as the reference parameter and "select_fun" as the function to be used, "by = 'p.adjust', select_fun = min" is to select the term with the lowest p.adjust value in the similar gene set
   
-  suppressPackageStartupMessages(require(clusterProfiler))
+  suppressPackageStartupMessages(library(clusterProfiler))
   
   if (is.null(x) || nrow(x) < 10) {
     return(x)
@@ -222,10 +222,10 @@ enrichORA <-
     # qvalueCutoff:   the q-value cut-off value, default 1 (this is because the custom library is too small and the q-value is large, and it can be changed as appropriate)
     # min/max:        gene set size limits to screen for gene sets to participate in the analysis (screening out gene sets that are too small or too general)
     
-    suppressPackageStartupMessages(require(clusterProfiler))
-    suppressPackageStartupMessages(require(org.Mm.eg.db))
-    suppressPackageStartupMessages(require(dplyr))
-    suppressPackageStartupMessages(require(purrr))
+    suppressPackageStartupMessages(library(clusterProfiler))
+    suppressPackageStartupMessages(library(org.Mm.eg.db))
+    suppressPackageStartupMessages(library(dplyr))
+    suppressPackageStartupMessages(library(purrr))
     
     ORA <- try(enricher(
       gene = x,
@@ -345,10 +345,10 @@ enrichGSEA <-
     # pvalueCutoff:   the p-value cut-off value, default 1 (this is because the custom library is too small and the p-value is large, and it can be changed as appropriate)
     # min/max:        gene set size limits to screen for gene sets to participate in the analysis (screening out gene sets that are too small or too general)
     
-    suppressPackageStartupMessages(require(clusterProfiler))
-    suppressPackageStartupMessages(require(org.Mm.eg.db))
-    suppressPackageStartupMessages(require(dplyr))
-    suppressPackageStartupMessages(require(purrr))
+    suppressPackageStartupMessages(library(clusterProfiler))
+    suppressPackageStartupMessages(library(org.Mm.eg.db))
+    suppressPackageStartupMessages(library(dplyr))
+    suppressPackageStartupMessages(library(purrr))
     
     set.seed(123)
     # set a random seed to make it easy to reproduce the results
@@ -471,9 +471,9 @@ oraGO <- function(x,
   # min/max:        gene set size limit to screen for analysis (screening out overly general gene sets)
   # readable:       the results are output as gene names instead of gene IDs, and convertion is used by org.Mm.eg.db
   
-  suppressPackageStartupMessages(require(clusterProfiler))
-  suppressPackageStartupMessages(require(org.Mm.eg.db))
-  suppressPackageStartupMessages(require(purrr))
+  suppressPackageStartupMessages(library(clusterProfiler))
+  suppressPackageStartupMessages(library(org.Mm.eg.db))
+  suppressPackageStartupMessages(library(purrr))
   
   GO <-
     try(enrichGO(
@@ -560,8 +560,8 @@ gseaGO <- function(x,
   # pvalue:         p valve cut-off value
   # min/max:        gene set size limit to screen for analysis (screening out overly general gene sets)
   
-  suppressPackageStartupMessages(require(clusterProfiler))
-  suppressPackageStartupMessages(require(org.Mm.eg.db))
+  suppressPackageStartupMessages(library(clusterProfiler))
+  suppressPackageStartupMessages(library(org.Mm.eg.db))
   
   set.seed(123)
   gseaGO <- try(gseGO(
@@ -660,8 +660,8 @@ oraKEGG <- function(x,
   # organism:       organism species information, "ko" is KEGG Orthology, mouse is "mmu", other species check search_kegg_organism() or http://www.genome.jp/kegg/catalog/org_list.html
   # offline:        whether to use the data of the installed KEGG.db (modified version), the default is TRUE, and if you want the latest online data, changed to FALSE
   
-  suppressPackageStartupMessages(require(clusterProfiler))
-  suppressPackageStartupMessages(require(org.Mm.eg.db))
+  suppressPackageStartupMessages(library(clusterProfiler))
+  suppressPackageStartupMessages(library(org.Mm.eg.db))
   
   KEGG <- try(enrichKEGG(
     gene = x,
@@ -758,8 +758,8 @@ gseaKEGG <- function(x,
   # organism:       organism species information, "ko" is KEGG Orthology, mouse is "mmu", other species check search_kegg_organism() or http://www.genome.jp/kegg/catalog/org_list.html
   # offline:        whether to use the data of the installed KEGG.db (modified version), the default is TRUE, and if you want the latest online data, changed to FALSE
   
-  suppressPackageStartupMessages(require(clusterProfiler))
-  suppressPackageStartupMessages(require(org.Mm.eg.db))
+  suppressPackageStartupMessages(library(clusterProfiler))
+  suppressPackageStartupMessages(library(org.Mm.eg.db))
   
   set.seed(123)
   gseaKEGG <- try(gseKEGG(
@@ -860,8 +860,8 @@ oraReactome <- function(x,
   # organism:       organism species information, mouse is "mouse"
   # readable:       the results are output as gene names instead of gene IDs, and convertion is used by org.Mm.eg.db
   
-  suppressPackageStartupMessages(require(clusterProfiler))
-  suppressPackageStartupMessages(require(ReactomePA))
+  suppressPackageStartupMessages(library(clusterProfiler))
+  suppressPackageStartupMessages(library(ReactomePA))
   
   Reactome <- try(enrichPathway(
     gene = x,
@@ -942,9 +942,9 @@ gseaReactome <- function(x,
   # min/max:        gene set size limit to screen for analysis (screening out overly general gene sets)
   # organism:       organism species information, mouse is "mouse"
   
-  suppressPackageStartupMessages(require(clusterProfiler))
-  suppressPackageStartupMessages(require(ReactomePA))
-  suppressPackageStartupMessages(require(org.Mm.eg.db))
+  suppressPackageStartupMessages(library(clusterProfiler))
+  suppressPackageStartupMessages(library(ReactomePA))
+  suppressPackageStartupMessages(library(org.Mm.eg.db))
   set.seed(123)
   gseaReactome <- try(gsePathway(
     geneList = x,
@@ -1047,8 +1047,8 @@ barPlot <-
       return(NULL)
     }
     
-    suppressPackageStartupMessages(require(enrichplot))
-    suppressPackageStartupMessages(require(ggplot2))
+    suppressPackageStartupMessages(library(enrichplot))
+    suppressPackageStartupMessages(library(ggplot2))
     
     p <- barplot(x,
                  showCategory = term,
@@ -1149,10 +1149,10 @@ barPlot1 <- function(x,
     return(NULL)
   }
   
-  suppressPackageStartupMessages(require(dplyr))
-  suppressPackageStartupMessages(require(tidyr))
-  suppressPackageStartupMessages(require(stringr))
-  suppressPackageStartupMessages(require(ggplot2))
+  suppressPackageStartupMessages(library(dplyr))
+  suppressPackageStartupMessages(library(tidyr))
+  suppressPackageStartupMessages(library(stringr))
+  suppressPackageStartupMessages(library(ggplot2))
   
   p <-
     x@result %>% drop_na(., ONTOLOGY) %>% group_by(ONTOLOGY) %>% slice_head(n = num) %>%  {
@@ -1269,8 +1269,8 @@ barPlot2 <- function(x,
     return(NULL)
   }
   
-  suppressPackageStartupMessages(require(tidyr))
-  suppressPackageStartupMessages(require(stringr))
+  suppressPackageStartupMessages(library(tidyr))
+  suppressPackageStartupMessages(library(stringr))
   
   
   if (is.numeric(term)) {
@@ -1408,8 +1408,8 @@ dotPlot <-
       return(NULL)
     }
     
-    suppressPackageStartupMessages(require(enrichplot))
-    suppressPackageStartupMessages(require(ggplot2))
+    suppressPackageStartupMessages(library(enrichplot))
+    suppressPackageStartupMessages(library(ggplot2))
     
     p <- dotplot(x,
                  showCategory = term,
@@ -1520,8 +1520,8 @@ cnetPlot <-
     }
     # The number of core-enrichment genes may be 0 or 1, resulting in a drawing error, and the term that is not 0 or 1 is taken here
     
-    suppressPackageStartupMessages(require(enrichplot))
-    suppressPackageStartupMessages(require(ggplot2))
+    suppressPackageStartupMessages(library(enrichplot))
+    suppressPackageStartupMessages(library(ggplot2))
     
     p <- cnetplot(
       x,
@@ -1620,7 +1620,7 @@ dagPlot <-
     # objectName:     used to distinguish between result files to avoid duplicate names
     # width/height:   the width and height of the output image
     
-    suppressPackageStartupMessages(require(topGO))
+    suppressPackageStartupMessages(library(topGO))
     suppressPackageStartupMessages(library(clusterProfiler))
     
     if (!class(x) %in% c("gseaResult", "enrichResult")) {
@@ -1803,9 +1803,9 @@ ESPlot <-
     # x:              gene set enrichment analysis result object
     # objectName:     used to distinguish between result files to avoid duplicate names
     
-    suppressPackageStartupMessages(require(enrichplot))
-    suppressPackageStartupMessages(require(ggplot2))
-    suppressPackageStartupMessages(require(stringr))
+    suppressPackageStartupMessages(library(enrichplot))
+    suppressPackageStartupMessages(library(ggplot2))
+    suppressPackageStartupMessages(library(stringr))
     
     if (!dir.exists(paste0(saveDir, "/ESplot/"))) {
       dir.create(paste0(saveDir, "/ESplot/"), recursive = TRUE)
@@ -1921,8 +1921,8 @@ ridgePlot <-
       return(NULL)
     }
     
-    suppressPackageStartupMessages(require(enrichplot))
-    suppressPackageStartupMessages(require(ggplot2))
+    suppressPackageStartupMessages(library(enrichplot))
+    suppressPackageStartupMessages(library(ggplot2))
     
     p <- ridgeplot(
       x,
@@ -2016,10 +2016,10 @@ pathPlot <- function(x,
   # saveDir:        save address, default will create directory "PathPlot"
   # objectName:     used to distinguish between result files to avoid duplicate names
   
-  suppressPackageStartupMessages(require(pathview))
-  suppressPackageStartupMessages(require(purrr))
-  suppressPackageStartupMessages(require(dplyr))
-  suppressPackageStartupMessages(require(tibble))
+  suppressPackageStartupMessages(library(pathview))
+  suppressPackageStartupMessages(library(purrr))
+  suppressPackageStartupMessages(library(dplyr))
+  suppressPackageStartupMessages(library(tibble))
   
   if (!dir.exists(saveDir)) {
     dir.create(saveDir, recursive = TRUE)
