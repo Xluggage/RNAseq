@@ -40,7 +40,7 @@ After that, you will get the following result：
        KO1_1.clean.fq.gz    sequencing data
        KO2_2.clean.fq.gz    sequencing data
        ...
-   result/                  result files
+   result/                  results folder
      anyone/
        bone/                group
          bam/               the mapping files (*.bam)
