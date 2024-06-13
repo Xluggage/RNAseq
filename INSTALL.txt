@@ -1,0 +1,44 @@
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+sh Miniconda3-latest-Linux-x86_64.sh
+source ~/.bashrc
+conda config --add channels bioconda
+conda config --add channels conda-forge
+conda clean -i
+
+conda create -n Expression fastp hisat2 samtools=1.15 stringtie subread -c bioconda
+
+conda create -n Differential r-base rstudio-desktop
+conda activate Differential
+conda install r-curl
+sudo add-apt-repository -y ppa:cran/poppler
+sudo apt-get update
+sudo apt-get install -y libpoppler-cpp-dev libtiff-dev
+R
+install.packages("BiocManager")
+BiocManager::install(version = "3.16")
+BiocManager::install(c("DESeq2","apeglm","IHW","edgeR","ComplexHeatmap","circlize"))
+install.packages(c("tidyverse","ggplot2","ggrepel","pheatmap","RColorBrewer","tiff","svglite","statmod"))
+install.packages("pdftools",configure.vars="PKG_CONFIG_PATH=/usr/lib/x86_64-linux-gnu/pkgconfig INCLUDE_DIR=/usr/include/poppler LIB_DIR=/usr/lib/x86_64-linux-gnu")
+q()
+conda deactivate
+
+conda create -n Enrichment r-base rstudio-desktop
+conda activate Enrichment
+sudo apt-get install libcurl4-openssl-dev
+wget -c https://github.com/unicode-org/icu/releases/download/release-69-1/icu4c-69_1-data-bin-l.zip
+R
+install.packages("BiocManager")
+BiocManager::install(version = "3.16")
+install.packages("stringi", configure.vars="ICUDT_DIR=/home/bioinfo/下载")  # change the string after ICUDT_DIR to the folder where the icu4c file was downloaded
+install.packages("curl", configure.vars = "INCLUDE_DIR=/home/bioinfo/miniconda3/envs/Enrichment/include/curl LIB_DIR=/home/bioinfo/miniconda3/envs/Enrichment/lib")
+# change the string after INCLUDE_DIR and LIB_DIR to the folder where is the libcurl
+install.packages("remotes")
+remotes::install_github("YuLab-SMU/clusterProfiler")
+remotes::install_github("YuLab-SMU/createKEGGdb")
+BiocManager::install(c("org.Mm.eg.db","biomaRt","topGO","ReactomePA","pathview"))
+install.packages(c("tidyverse","ggplot2","ggridges","stringr"))
+library("createKEGGdb")
+createKEGGdb::create_kegg_db("mmu")
+install.packages("KEGG.db_1.0.tar.gz", repos=NULL,type="source")
+q()
+conda deactivate
